@@ -27,9 +27,17 @@ defaults:
         values:
             language: de
             layout: default
+            privacy: Datenschutz
+            address:
+                location: Burgstall
+                street: Vöranerweg 4
     -
         scope:
             path: "it"
         values:
             language: it
             layout: default
+            privacy: Privacy
+            address:
+                location: Postal
+                street: Via Verano 4
