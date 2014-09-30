@@ -34,7 +34,11 @@
                         </nav>
                     </div>
                     <div id="banner" role="banner">
-                        <a href="{{ "/" | prepend: site.baseurl }}">
+                        {% if page.permalink == nil %}
+                            <a href="{{ "/" | prepend: site.baseurl }}">
+                        {% else %}
+                            <a href="{{ "/" | prepend: page.language| prepend: "/" | prepend: site.baseurl }}">
+                        {% endif %}
                             <div class="first ir ph"></div>
                             <div class="second ir ph"></div>
                         </a>
@@ -42,7 +46,15 @@
                 </header>
                 <div id="main" role="main">
                     <nav id="navigation" role="navigation" class="aside">
-                        <h1><a id="homelink" href="{{ "/" | prepend: site.baseurl }}">Ochsenkofler</a></h1>
+                        <h1>
+                            {% if page.permalink == nil %}
+                                <a id="homelink" href="{{ "/" | prepend: site.baseurl }}">
+                            {% else %}
+                                <a id="homelink" href="{{ "/" | prepend: page.language| prepend: "/" | prepend: site.baseurl }}">
+                            {% endif %}
+                                    Ochsenkofler
+                                </a>
+                            </h1>
                         <div id="mainnav">
                             <div id="layout-navigation" class="group">
                                 <asp:Menu ID="Menu" runat="server" SkipLinkText="" DataSourceID="SiteMapDataSource" StaticDisplayLevels="2" MaximumDynamicDisplayLevels="0" DynamicEnableDefaultPopOutImage="False" EnableTheming="True" StaticEnableDefaultPopOutImage="False" OnMenuItemDataBound="Menu_MenuItemDataBound">
