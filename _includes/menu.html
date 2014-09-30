@@ -13,13 +13,25 @@
             <ul>
                 {% for p in site.html_pages %}
                     {% if page.language == p.language and p.tags contains 'menu' %}
+                        {% if page.permalink == p.permalink %}
+                        <li class="current">
+                        {% else %}
                         <li>
+                        {% endif %}
                             <a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a>
 
                             {% if forloop.first == true %}
                                 <ul>
                                     {% for doc in site.collections.ferienwohnungen.docs %}
-                                        <li><a href="{{ doc.permalink | prepend: site.baseurl }}">{{ doc.title }}</a></li>
+                                        {% if doc.language == page.language %}
+                                            {% if page.permalink == doc.permalink %}
+                                            <li class="current">
+                                            {% else %}
+                                            <li>
+                                            {% endif %}
+                                                <a href="{{ doc.permalink | prepend: site.baseurl }}">{{ doc.title }}</a>
+                                            </li>
+                                        {% endif %}
                                     {% endfor %}
                                 </ul>
                             {% endif %}
