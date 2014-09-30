@@ -11,7 +11,7 @@
     <div id="mainnav">
         <div id="layout-navigation" class="group">
             <ul>
-                {% for p in site.pages %}
+                {% for p in site.html_pages %}
                     {% if page.language == p.language and p.tags contains 'menu' %}
                         <li><a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a></li>
                     {% endif %}
