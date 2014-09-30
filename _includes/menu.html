@@ -13,7 +13,17 @@
             <ul>
                 {% for p in site.html_pages %}
                     {% if page.language == p.language and p.tags contains 'menu' %}
-                        <li><a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a></li>
+                        <li>
+                            <a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a>
+
+                            {% if forloop.first == true %}
+                                <ul>
+                                    {% for doc in site.collections.ferienwohnungen.docs %}
+                                        <li><a href="{{ doc.permalink | prepend: site.baseurl }}">{{ doc.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                        </li>
                     {% endif %}
                 {% endfor %}
             </ul>

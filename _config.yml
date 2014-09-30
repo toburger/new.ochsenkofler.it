@@ -41,3 +41,10 @@ defaults:
             address:
                 location: Postal
                 street: Via Verano 4
+
+collections:
+    ferienwohnungen:
+        output: true
+    home_popups:
+        width: 200
+        height: 200
