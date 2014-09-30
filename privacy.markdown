@@ -1,5 +1,6 @@
 ---
 title: Datenschutz
+permalink: /privacy/
 ---
 
 # Datenschutz
