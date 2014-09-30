@@ -34,7 +34,7 @@
                         </nav>
                     </div>
                     <div id="banner" role="banner">
-                        {% if page.permalink == nil %}
+                        {% if page.language == "de" %}
                             <a href="{{ "/" | prepend: site.baseurl }}">
                         {% else %}
                             <a href="{{ "/" | prepend: page.language| prepend: "/" | prepend: site.baseurl }}">
@@ -47,7 +47,7 @@
                 <div id="main" role="main">
                     <nav id="navigation" role="navigation" class="aside">
                         <h1>
-                            {% if page.permalink == nil %}
+                            {% if page.language == "de" %}
                                 <a id="homelink" href="{{ "/" | prepend: site.baseurl }}">
                             {% else %}
                                 <a id="homelink" href="{{ "/" | prepend: page.language| prepend: "/" | prepend: site.baseurl }}">
@@ -57,11 +57,15 @@
                             </h1>
                         <div id="mainnav">
                             <div id="layout-navigation" class="group">
-                                <asp:Menu ID="Menu" runat="server" SkipLinkText="" DataSourceID="SiteMapDataSource" StaticDisplayLevels="2" MaximumDynamicDisplayLevels="0" DynamicEnableDefaultPopOutImage="False" EnableTheming="True" StaticEnableDefaultPopOutImage="False" OnMenuItemDataBound="Menu_MenuItemDataBound">
-                                </asp:Menu>
+                                <ul>
+                                    {% for p in site.pages %}
+                                        {% if page.language == p.language and p.tags contains 'menu' %}
+                                            <li><a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a></li>
+                                        {% endif %}
+                                    {% endfor %}
+                                </ul>
                             </div>
                         </div>
-                        <asp:SiteMapDataSource ID="SiteMapDataSource" runat="server" ShowStartingNode="False" />
                     </nav>
                     <footer id="footer-aside" class="aside">
                         <nav>

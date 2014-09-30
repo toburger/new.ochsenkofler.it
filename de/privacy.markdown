@@ -1,6 +1,7 @@
 ---
 title: Datenschutz
 permalink: /de/privacy/
+tags: []
 ---
 
 # Datenschutz

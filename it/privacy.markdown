@@ -1,6 +1,7 @@
 ---
 title: Privacy
 permalink: /it/privacy/
+tags: []
 ---
 
 # Privacy

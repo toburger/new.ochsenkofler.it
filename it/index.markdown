@@ -1,6 +1,7 @@
 ---
-title: Der Ochsenkoflerhof - Urlaub auf dem Bauernhof
+title: L´Ochsenkoflerhof
 permalink: /it/
+tags: []
 ---
 
 # Ochsenkoflerhof
