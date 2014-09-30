@@ -2,8 +2,8 @@
 title: Ochsenkofler
 email: info@ochsenkofler.it
 description: Ochsenkofler...
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://toburger.github.io/ochsenkofler.it/" # the base hostname & protocol for your site
+baseurl: "/ochsenkofler.it/" # the subpath of your site, e.g. /blog/
+url: "http://toburger.github.io/" # the base hostname & protocol for your site
 twitter_username: toburger
 github_username:  toburger
 
