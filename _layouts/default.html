@@ -14,9 +14,15 @@
                         <div class="first"><div class="text">{{ site.header[0] }}</div></div>
                         <div class="second"><div class="text">{{ site.header[1] }}</div></div>
                         <nav id="languagenav" class="text">
-                            <asp:LinkButton ID="LinkButtonDeutsch" runat="server" CommandArgument="de" OnClick="Translate" hreflang="de">Deutsch</asp:LinkButton>
-                            |
-                            <asp:LinkButton ID="LinkButtonItaliano" runat="server" CommandArgument="it" OnClick="Translate" hreflang="it">Italiano</asp:LinkButton>
+                            {% for language in site.languages %}
+                                {% if language.key == page.language %}
+                                    {{language.value}}
+                                {% else %}
+                                    <a href="{{ page.permalink | replace: page.language,language.key | prepend: site.baseurl }}" hreflang="{{ language.key }}">
+                                        {{ language.value }}
+                                    </a>
+                                {% endif %}
+                            {% endfor %}
                         </nav>
                     </div>
                     <div id="banner" role="banner">
@@ -41,7 +47,7 @@
                         <nav>
                             <div id="layout-aside-first" class="group">
                                 <ul>
-                                    <li><a href="{{ "/privacy/" | prepend: site.baseurl }}">Privacy</a>
+                                    <li><a href="{{ "/privacy/" | prepend: page.language | prepend: "/" | prepend: site.baseurl }}">Privacy</a>
                                     </li>
                                     <li><a href="http://partner.europaeische.at/roter-hahn?AGN2=142311216" target="_blank">Europäische Reiseversicherung</a></li>
                                 </ul>

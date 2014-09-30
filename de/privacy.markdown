@@ -1,15 +1,18 @@
 ---
 title: Datenschutz
-permalink: /privacy/
+permalink: /de/privacy/
 ---
 
 # Datenschutz
 
 **Aufklärung im Sinne des Art. 13 des Legislativdekretes Nr. 196/2003**
 
-Sehr geehrte Damen und Herren,  
-Das Dlvo Nr. 196/2003 (italienischer Datenschutzkodex) sieht den Schutz von Personen und anderen Subjekten bei der Verarbeitung der persönlichen Daten vor.  
-Im Sinne des Gesetzes werden Ihre Daten von uns korrekt und vertraulich behandelt.  
+Sehr geehrte Damen und Herren,
+
+Das Dlvo Nr. 196/2003 (italienischer Datenschutzkodex) sieht den Schutz von Personen und anderen Subjekten bei der Verarbeitung der persönlichen Daten vor.
+
+Im Sinne des Gesetzes werden Ihre Daten von uns korrekt und vertraulich behandelt.
+
 Im Sinne des Art. 13 des Dlvo Nr. 196/2003 teilen wir Ihnen mit:
 
 1. Die von Ihnen erhobenen Daten werden für folgenden Zweck verwendet: polizeiliche Meldung, Versand von Angeboten, Bestätigungen, Weihnachtspost

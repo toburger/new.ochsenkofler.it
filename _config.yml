@@ -12,9 +12,24 @@ github_username:  toburger
 # Build settings
 markdown: kramdown
 
+languages:
+    -
+        key: 'de'
+        value: 'Deutsch'
+    -
+        key: 'it'
+        value: 'Italiano'
+
 defaults:
     -
         scope:
             path: ""
         values:
+            language: de
+            layout: default
+    -
+        scope:
+            path: "it"
+        values:
+            language: it
             layout: default
