@@ -1,0 +1,22 @@
+<nav id="navigation" role="navigation" class="aside">
+    <h1>
+        {% if page.language == "de" %}
+            <a id="homelink" href="{{ "/" | prepend: site.baseurl }}">
+        {% else %}
+            <a id="homelink" href="{{ "/" | prepend: page.language| prepend: "/" | prepend: site.baseurl }}">
+        {% endif %}
+                Ochsenkofler
+            </a>
+    </h1>
+    <div id="mainnav">
+        <div id="layout-navigation" class="group">
+            <ul>
+                {% for p in site.pages %}
+                    {% if page.language == p.language and p.tags contains 'menu' %}
+                        <li><a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</nav>

@@ -1,0 +1,14 @@
+<div id="addressinfo" itemscope itemtype="http://schema.org/BedAndBreakfast">
+    <meta itemprop="name" content="Ochsenkoflerhof" />
+    <link itemprop="image" href="{{ "/assets/images/HeaderImageRight.jpg" | prepend: site.baseurl }}" />
+    <a href="http://www.roterhahn.it" target="_blank" id="roterhahnlink" class="ir">Roter Hahn</a>
+    <address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+        <span itemprop="name">Fam. Burger</span><br />
+        <meta itemprop="addressCountry" content="IT" />
+        I-<span itemprop="postalCode">39014</span>
+        <span itemprop="addressLocality">{{ page.address.location }}</span><br />
+        <span itemprop="streetAddress">{{ page.address.street }}</span><br />
+        Tel. <span itemprop="telephone">0473 292429</span><br />
+        <a href="mailto:info@ochsenkofler.it"><span itemprop="email">info@ochsenkofler.it</span></a>
+    </address>
+</div>
