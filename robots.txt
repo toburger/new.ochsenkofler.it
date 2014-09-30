@@ -4,7 +4,7 @@ layout: nil
 
 # robots.txt for {{ "/" | prepend: site.baseurl | prepend: site.url }}
 
-# Sitemap: {{ "/" | prepend: site.baseurl | prepend: site.url }}/sitemap.xml
+# Sitemap: {{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}
 
 User-agent: *
 Disallow:
