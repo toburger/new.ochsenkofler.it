@@ -1,11 +1,28 @@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
-
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <meta name="generator" content="Jekyll" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+    <link href="{{ "/css/fancybox/jquery.fancybox.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+    <link href="{{ "/css/Reset.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet" type="text/css" />
+    <link href="http://fonts.googleapis.com/css?family=Duru+Sans" rel="stylesheet" type="text/css" />
+    <link href="{{ "/css/Site.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+    <link href="{{ "/css/Fixes.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+    <script src="{{ "/assets/js/modernizr.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+    <script type="text/javascript">
+        Modernizr.load({
+            test: Modernizr.mq('(only all)'),
+            nope: '{{ "/assets/js/polyfills/respond.min.js" | prepend: site.baseurl }}'
+        });
+    </script>
+    <meta name=viewport content="width=device-width">
+    <meta name="application-name" content="Ochsenkoflerhof"/> 
+    <meta name="msapplication-TileColor" content="#812020"/> 
+    <meta name="msapplication-TileImage" content="{{ "/assets/icon.png" | prepend: site.baseurl }}"/>
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "/assets/favicon.ico" | prepend: site.baseurl }}" />
+    <link rel="apple-touch-icon" type="image/x-icon" href="{{ "/assets/icon.png" | prepend: site.baseurl }}"/>
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 </head>

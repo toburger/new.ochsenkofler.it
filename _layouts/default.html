@@ -1,20 +1,85 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="<%= System.Threading.Thread.CurrentThread.CurrentCulture.TwoLetterISOLanguageName %>"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="<%= System.Threading.Thread.CurrentThread.CurrentCulture.TwoLetterISOLanguageName %>"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="<%= System.Threading.Thread.CurrentThread.CurrentCulture.TwoLetterISOLanguageName %>"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="<%= System.Threading.Thread.CurrentThread.CurrentCulture.TwoLetterISOLanguageName %>"> <!--<![endif]-->
 
-  {% include head.html %}
+    {% include head.html %}
 
-  <body>
+    <body>
+        <form runat="server">
+            <div id="container">
+                <header>
+                    <div id="headercontent">
+                        <div class="first"><div class="text">{{ site.header[0] }}</div></div>
+                        <div class="second"><div class="text">{{ site.header[1] }}</div></div>
+                        <nav id="languagenav" class="text">
+                            <asp:LinkButton ID="LinkButtonDeutsch" runat="server" CommandArgument="de" OnClick="Translate" hreflang="de">Deutsch</asp:LinkButton>
+                            |
+                            <asp:LinkButton ID="LinkButtonItaliano" runat="server" CommandArgument="it" OnClick="Translate" hreflang="it">Italiano</asp:LinkButton>
+                        </nav>
+                    </div>
+                    <div id="banner" role="banner">
+                        <a href="{{ "/" | prepend: site.baseurl }}">
+                            <div class="first ir ph"></div>
+                            <div class="second ir ph"></div>
+                        </a>
+                    </div>
+                </header>
+                <div id="main" role="main">
+                    <nav id="navigation" role="navigation" class="aside">
+                        <h1><a id="homelink" href="{{ "/" | prepend: site.baseurl }}">Ochsenkofler</a></h1>
+                        <div id="mainnav">
+                            <div id="layout-navigation" class="group">
+                                <asp:Menu ID="Menu" runat="server" SkipLinkText="" DataSourceID="SiteMapDataSource" StaticDisplayLevels="2" MaximumDynamicDisplayLevels="0" DynamicEnableDefaultPopOutImage="False" EnableTheming="True" StaticEnableDefaultPopOutImage="False" OnMenuItemDataBound="Menu_MenuItemDataBound">
+                                </asp:Menu>
+                            </div>
+                        </div>
+                        <asp:SiteMapDataSource ID="SiteMapDataSource" runat="server" ShowStartingNode="False" />
+                    </nav>
+                    <footer id="footer-aside" class="aside">
+                        <nav>
+                            <div id="layout-aside-first" class="group">
+                                <ul>
+                                    <li><a href="/Privacy.aspx"><asp:Label runat="server" meta:resourceKey="Privacy" ID="Privacy" /></a></li>
+                                    <li><a href="http://partner.europaeische.at/roter-hahn?AGN2=142311216" target="_blank">Europäische Reiseversicherung</a></li>
+                                </ul>
+                            </div>
+                        </nav>
+                        <div id="addressinfo" itemscope itemtype="http://schema.org/BedAndBreakfast">
+                            <meta itemprop="name" content="Ochsenkoflerhof" />
+                            <link itemprop="image" href="{{ "/assets/images/HeaderImageRight.jpg" | prepend: site.baseurl }}" />
+                            <a href="http://www.roterhahn.it" target="_blank" id="roterhahnlink" class="ir">Roter Hahn</a>
+                            <address itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <span itemprop="name"><asp:Label runat="server" ID="Family" meta:resourceKey="Family" /></span><br />
+                                <meta itemprop="addressCountry" content="IT" />
+                                I-<span itemprop="postalCode"><asp:Label runat="server" ID="PostalCode" meta:resourceKey="PostalCode" /></span>
+                                <span itemprop="addressLocality"><asp:Label runat="server" ID="Location" meta:resourceKey="Location" /></span><br />
+                                <span itemprop="streetAddress"><asp:Label runat="server" ID="Street" meta:resourceKey="Street" /></span><br />
+                                <asp:Label runat="server" ID="Phone" meta:resourceKey="Phone" /> <span itemprop="telephone">0473 292429</span><br />
+                                <a href="mailto:info@ochsenkofler.it"><span itemprop="email">info@ochsenkofler.it</span></a>
+                            </address>
+                        </div>
+                    </footer>
+                    <div id="content" class="clearfix">
+                        <div id="mustercontainer" class="ir">
+                        </div>
+                        <div>
+                            <article>
+                                {{ content }}
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="footer" role="contentinfo"></div>
+        </form>
 
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-
+        <script>
+            var _gaq=[['_setAccount','UA-2898486-1'],['_trackPageview']];
+            (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+            g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+            s.parentNode.insertBefore(g,s)}(document,'script'));
+        </script>
+    </body>
 </html>

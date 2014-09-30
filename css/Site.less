@@ -1,0 +1,54 @@
+@import 'less/Globals.less';
+
+body, button, input, select, textarea {
+    font-family: @default-font;
+    font-size: @default-font-size;
+    line-height: 1.7em;
+}
+
+html {
+    background-color: @background-color;
+}
+
+a, a:hover, a:visited {
+    color: @dark-color;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+table.table {
+    td, th {
+        padding: 1px 5px;
+    }
+
+    tbody {
+        th {
+            text-align: left;
+        }
+    }
+}
+
+table.table4c {
+    thead {
+        th, td {
+            width: 25%;
+        }
+    }
+}
+
+table.seasontable tbody td {
+    text-align: center;
+}
+
+table.pricetable tbody td {
+    text-align:  right;
+}
+
+@import 'less/Mobile.less';
+
+@import 'less/Desktop.less';
+
+//@import 'less/Orchard';
