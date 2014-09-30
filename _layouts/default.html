@@ -14,15 +14,23 @@
                         <div class="first"><div class="text">{{ site.header[0] }}</div></div>
                         <div class="second"><div class="text">{{ site.header[1] }}</div></div>
                         <nav id="languagenav" class="text">
-                            {% for language in site.languages %}
-                                {% if language.key == page.language %}
-                                    {{language.value}}
-                                {% else %}
-                                    <a href="{{ page.permalink | replace: page.language,language.key | prepend: site.baseurl }}" hreflang="{{ language.key }}">
-                                        {{ language.value }}
-                                    </a>
-                                {% endif %}
-                            {% endfor %}
+                            {% if page.permalink == nil %}
+                                Deutsch
+                                <a href="{{ "/it/" | prepend: site.baseurl }}">Italiano</a>
+                            {% elsif page.permalink == '/it/' %}
+                                <a href="{{ "/" | prepend: site.baseurl }}">Deutsch</a>
+                                Italiano
+                            {% else %}
+                                {% for language in site.languages %}
+                                        {% if language.key == page.language %}
+                                            {{language.value}}
+                                        {% else %}
+                                            <a href="{{ page.permalink | replace: page.language,language.key | prepend: site.baseurl }}" hreflang="{{ language.key }}">
+                                                {{ language.value }}
+                                            </a>
+                                        {% endif %}
+                                {% endfor %}
+                            {% endif %}
                         </nav>
                     </div>
                     <div id="banner" role="banner">
