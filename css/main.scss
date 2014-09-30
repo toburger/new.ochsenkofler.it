@@ -3,47 +3,56 @@
 ---
 @charset "utf-8";
 
+@import 'globals';
 
+body, button, input, select, textarea {
+    font-family: $default-font;
+    font-size: $default-font-size;
+    line-height: 1.7em;
+}
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+html {
+    background-color: $background-color;
+}
 
-$spacing-unit:     30px;
+a, a:hover, a:visited {
+    color: $dark-color;
+    text-decoration: none;
+}
 
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+a:hover {
+    text-decoration: underline;
+}
 
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
+table.table {
+    td, th {
+        padding: 1px 5px;
+    }
 
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
+    tbody {
+        th {
+            text-align: left;
+        }
     }
 }
 
+table.table4c {
+    thead {
+        th, td {
+            width: 25%;
+        }
+    }
+}
+
+table.seasontable tbody td {
+    text-align: center;
+}
+
+table.pricetable tbody td {
+    text-align:  right;
+}
 
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@import 'mobile';
+
+@import 'desktop';

@@ -1,12 +1,13 @@
-@import 'Globals.less';
-@default-width: 100%;
-@content-width: 100%;
-@aside-width: 100%;
+@import 'globals';
+
+$default-width: 100%;
+$content-width: 100%;
+$aside-width: 100%;
 
 #container {
-    width: @default-width;
+    width: $default-width;
     margin: auto;
-    background-color: @light-color;
+    background-color: $light-color;
     z-index: 1;
 }
 
@@ -19,9 +20,9 @@
 
     .first {
         float: left;
-        color: @light-color;
-        background-color: @dark-color;
-        width: @aside-width;
+        color: $light-color;
+        background-color: $dark-color;
+        width: $aside-width;
         text-align: right;
 
         .text {
@@ -33,7 +34,7 @@
     .second {
         float: left;
         position: relative;
-        width: @content-width;
+        width: $content-width;
 
         .text {
             display: none;
@@ -52,54 +53,54 @@
 
     .first {
         float: left;
-        width: @aside-width;
+        width: $aside-width;
         height: 185px;
-        .background-image('HeaderImageLeft.jpg');
+        @include background-image('HeaderImageLeft.jpg');
     }
 
     .second {
         float: left;
-        width: @content-width;
+        width: $content-width;
         height: 185px;
-        .background-image('HeaderImageRight.jpg');
+        @include background-image('HeaderImageRight.jpg');
     }
 }
 
 #main {
     clear: both;
     position: relative;
-    background-color: @light-color;
+    background-color: $light-color;
 }
 
 #homelink {
     width: 100%;
     height: 35px;
-    /*.background-image('Logo.gif');*/
+    /*@include background-image('Logo.gif');*/
     display: block;
-    color: @light-color;
-    background-color: @dark-color;
+    color: $light-color;
+    background-color: $dark-color;
     padding-top: 20px;
     vertical-align: middle;
     text-align: center;
-    font-family: @header-font;
-    font-size: @default-font-size + 22px;
+    font-family: $header-font;
+    font-size: $default-font-size + 22px;
 
     &:hover {
         text-decoration: none;
-        /*background-color: @light-color;
-        color: @dark-color;*/
+        /*background-color: $light-color;
+        color: $dark-color;*/
     }
 }
 
 .fontface #homelink {
-    font-size: @default-font-size + 26px;
+    font-size: $default-font-size + 26px;
     padding-top: 15px;
     height: 40px;
 }
 
 .aside {
     margin: 0px;
-    width: @aside-width;
+    width: $aside-width;
     position: relative;
     display: block;
     clear: both;
@@ -120,40 +121,40 @@
     }
 }
 
-.current-menu () {
-    background-color: @dark-color;
-    color: @light-color;
+@mixin current-menu() {
+    background-color: $dark-color;
+    color: $light-color;
     text-decoration: none;
 }
 
 #mainnav {
     li {
-        border-top: 1px solid @light-color;
+        border-top: 1px solid $light-color;
 
         &.current > a {
-            .current-menu;
+            @include current-menu;
         }
 
         &.current div a {
-            .current-menu;
+            @include current-menu;
         }
 
         a {
             padding: 5px 10px;
             display: block;
-            background-color: @light-gray-color;
-            font-size: @default-font-size + 2px;
+            background-color: $light-gray-color;
+            font-size: $default-font-size + 2px;
 
             &:hover {
-                .current-menu;
+                @include current-menu;
             }
         }
 
         li a {
             padding: 0px 10px;
             padding-left: 20px;
-            background-color: @light-color;
-            font-size: @default-font-size - 1px;
+            background-color: $light-color;
+            font-size: $default-font-size - 1px;
         }
     }
 }
@@ -163,7 +164,7 @@
     position: absolute;
     bottom: 0px;
     left: 0px;
-    width: @aside-width - 10px;
+    width: calc($aside-width - 10px);
     height: 145px;
     padding: 0px 5px 5px 5px;
     vertical-align: bottom;
@@ -173,13 +174,13 @@
     position: relative;
 
     address {
-        color: @dark-gray-color;
+        color: $dark-gray-color;
         font-style: normal;
     }
 }
 
 #roterhahnlink {
-    .background-image('Hahn.gif');
+    @include background-image('Hahn.gif');
     background-position: bottom;
     width: 38px;
     height: 76px;
@@ -188,7 +189,7 @@
 }
 
 #footer {
-    color: @light-color;
+    color: $light-color;
     font-size: x-small;
     margin-top: 0px;
     text-align: right;
@@ -196,15 +197,15 @@
     width: 100%;
 
     a {
-        color: @light-color;
+        color: $light-color;
     }
 }
 
 #content {
-    background-color: @light-color;
+    background-color: $light-color;
     position: relative;
     display: block;
-    width: @content-width;
+    width: $content-width;
 
     article {
         margin-top: -14px;
@@ -212,11 +213,11 @@
     }
     
     h1 {
-        color: @dark-color;
+        color: $dark-color;
         line-height: 1em;
         margin-bottom: 4px;
-        font-family: @header-font;
-        font-size: @default-font-size + 16px;
+        font-family: $header-font;
+        font-size: $default-font-size + 16px;
     }
 
     h3 {
@@ -231,9 +232,9 @@
 #mustercontainer {
     display: none;
     height: 55px;
-    .background-image('Muster.jpg');
+    @include background-image('Muster.jpg');
     width: 100%;
-    background-color: @light-gray-color;
+    background-color: $light-gray-color;
 }
 
 /*
@@ -250,7 +251,7 @@
     .credits {
         float: left;
     }
-        color: @light-color;
+        color: $light-color;
 
     &:default, a, a:hover, a:visited {
     }
@@ -266,20 +267,20 @@
         margin: 0px;
         padding: 3px;
         display: block;
-        border: 1px solid @dark-color;
+        border: 1px solid $dark-color;
         width: 300px;
     }
 
     .hint {
-        color: @background-color;
+        color: $background-color;
         font-size: x-small;
     }
 
     .submit-button {
         width: 308px;
         margin: 3px 0px;
-        background-color: @dark-color;
-        color: @light-color;
+        background-color: $dark-color;
+        color: $light-color;
     }
 }
 

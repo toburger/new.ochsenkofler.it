@@ -1,7 +1,8 @@
-@import 'Globals.less';
-@default-width: 786px;
-@content-width: 578px;
-@aside-width: 208px;
+@import 'globals';
+
+$default-width: 786px;
+$content-width: 578px;
+$aside-width: 208px;
 
 /*@media only screen and (max-width: 786px) {
     body {
@@ -18,7 +19,7 @@
 @media only screen and (min-width: 35em) {
     #container {
         margin: 10px auto;
-        width: @default-width;
+        width: $default-width;
         -webkit-box-shadow: 0 0 1em #000;
         -moz-box-shadow: 0 0 1em #000;
         box-shadow: 0 0 1em #000;
@@ -26,7 +27,7 @@
 
     #headercontent {
         .first {
-            width: @aside-width;
+            width: $aside-width;
 
             .text {
                 display: inherit;
@@ -34,7 +35,7 @@
         }
 
         .second {
-            width: @content-width;
+            width: $content-width;
 
             .text {
                 display: inherit;
@@ -52,16 +53,16 @@
         display: block;
 
         .first {
-            width: @aside-width;
+            width: $aside-width;
         }
 
         .second {
-            width: @content-width;
+            width: $content-width;
         }
     }
 
     .aside {
-        width: @aside-width;
+        width: $aside-width;
         position: relative;
         float: left;
     }
@@ -75,16 +76,16 @@
     }
 
     #content {
-        width: @content-width;
-        margin-left: @aside-width;
+        width: $content-width;
+        margin-left: $aside-width;
     }
 
     #footer {
-        width: @default-width;
+        width: $default-width;
     }
 
     #footer-aside {
         display: block;
-        width: @aside-width - 10px;
+        width: $aside-width - 10px;
     }
 }
