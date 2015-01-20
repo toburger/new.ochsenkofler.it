@@ -1,0 +1,15 @@
+{% if page.images %}
+
+<div>
+    <ul class="gallery" style="width: {{ page.gallery_width }}px">
+        {% for image in page.images %}
+        <li>
+            <a class="gallery-link" href="{{ '/assets/images/new/orig/' | prepend: site.baseurl | append: image }}" target="_blank" rel="Galerie">
+                <img class="thumbnail" alt="" src="{{ '/assets/images/new/thumb/' | prepend: site.baseurl | append: image }}">
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+{% endif %}
