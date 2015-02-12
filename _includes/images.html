@@ -7,9 +7,7 @@
             <a class="gallery-link"
                href="{{ '/assets/images/new/orig/' | prepend: site.baseurl | append: image }}"
                data-size="600x400"
-               itemprop="contenturl"
-               target="_blank"
-               rel="Galerie">
+               itemprop="contentUrl">
                 <img class="thumbnail"
                      alt=""
                      itemprop="thumbnail"
@@ -61,7 +59,7 @@
 
         // parse slide data (url, title, size ...) from DOM elements
         // (children of gallerySelector)
-        var parseThumbnaliElements = function (el) {
+        var parseThumbnailElements = function (el) {
             var thumbElements = el.childNodes,
                 numNodes = thumbElements.length,
                 items = [],
@@ -148,8 +146,6 @@
                 nodeIndex++;
             }
 
-
-
             if (index >= 0) {
                 // open PhotoSwipe if valid index found
                 openPhotoSwipe(index, clickedGallery);
@@ -195,7 +191,7 @@
                 options,
                 items;
 
-            items = parseThumbnaliElements(galleryElement);
+            items = parseThumbnailElements(galleryElement);
 
             // define options (if needed)
             options = {

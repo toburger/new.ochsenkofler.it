@@ -2,36 +2,38 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{ page.language }}"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="{{ page.language }}"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="{{ page.language }}"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="{{ page.language }}"> <!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="{{ page.language }}">
+<!--<![endif]-->
 
     {% include head.html %}
 
-    <body>
+<body>
 
-        <form runat="server">
-            <div id="container">
-                {% include header.html %}
-                <div id="main" role="main">
+    <form runat="server">
+        <div id="container">
+            {% include header.html %}
+            <div id="main" role="main">
 
-                    {% include menu.html %}
+                {% include menu.html %}
 
-                    {% include footer-aside.html %}
+                {% include footer-aside.html %}
 
-                    <div id="content" class="clearfix">
-                        <div id="mustercontainer" class="ir">
-                        </div>
-                        <div>
-                            <article>
-                                {{ content }}
-                            </article>
-                        </div>
+                <div id="content" class="clearfix">
+                    <div id="mustercontainer" class="ir">
+                    </div>
+                    <div>
+                        <article>
+                            {{ content }}
+                        </article>
                     </div>
                 </div>
             </div>
-            <div id="footer" role="contentinfo"></div>
-        </form>
+        </div>
+        <div id="footer" role="contentinfo"></div>
+    </form>
 
-        {% include footer.html %}
+    {% include footer.html %}
 
-    </body>
+</body>
 </html>
