@@ -1,4 +1,4 @@
-/*! PhotoSwipe Default UI - 4.0.5 - 2015-02-10
+/*! PhotoSwipe Default UI - 4.0.5 - 2015-02-12
 * http://photoswipe.com
 * Copyright (c) 2015 Dmitry Semenov; */
 /**
@@ -357,7 +357,7 @@ var PhotoSwipeUI_Default =
 						gap.bottom = bars.top; // if no caption, set size of bottom gap to size of top
 					}
 				} else {
-					gap.bottom = bars.bottom === 'auto' ? 0 : bars.bottom;
+					gap.bottom = bars.bottom;
 				}
 				
 				// height of top bar is static, no need to calculate it
