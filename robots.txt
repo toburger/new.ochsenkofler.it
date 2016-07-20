@@ -1,5 +1,5 @@
 ---
-layout: nil
+layout:
 ---
 
 # robots.txt for {{ "/" | prepend: site.baseurl | prepend: site.url }}
