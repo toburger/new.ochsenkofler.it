@@ -1,7 +1,7 @@
 {% if page.images %}
 
 <div class="gallery"
-        style="width: {{ page.gallery_width }}px"
+        style="max-width: {{ page.gallery_width }}px"
         data-pswp-uid="1"
         itemscope itemtype="http://schema.org/ImageGallery">
     {% for image in page.images %}
