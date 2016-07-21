@@ -3,7 +3,7 @@
         {% if page.language == "de" %}
             <a id="homelink" href="{{ "/" | prepend: site.baseurl }}">
         {% else %}
-            <a id="homelink" href="{{ "/" | prepend: page.language| prepend: "/" | prepend: site.baseurl }}">
+            <a id="homelink" href="{{ "/" | prepend: page.language | prepend: "/" | prepend: site.baseurl }}">
         {% endif %}
                 Ochsenkofler
             </a>
@@ -19,10 +19,9 @@
                         <li>
                         {% endif %}
                             <a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a>
-
-                            {% if forloop.first == true %}
+                            {% if p.tags contains 'menu_apartments' and page.permalink contains p.permalink %}
                                 <ul>
-                                    {% for doc in site.collections.ferienwohnungen.docs %}
+                                    {% for doc in site.ferienwohnungen %}
                                         {% if doc.language == page.language %}
                                             {% if page.permalink == doc.permalink %}
                                             <li class="current">
