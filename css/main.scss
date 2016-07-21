@@ -5,6 +5,10 @@
 
 @import 'globals';
 
+.text-center {
+    text-align: center;
+}
+
 body, button, input, select, textarea {
     font-family: $default-font;
     font-size: $default-font-size;
