@@ -5,14 +5,14 @@ images:
   - hof/PR1_1830.jpg
   - hof/PR1_1850.jpg
   - hof/PR1_1857.jpg
-  - ../../Aufenthaltsraum-2.jpg
+  - old/Aufenthaltsraum-2.jpg
   - hof/PR1_1829.jpg
   - hof/PR1_1841.jpg
-  - ../../Aufenthaltsraum-1.jpg
+  - old/Aufenthaltsraum-1.jpg
   - hof/PR1_1835.jpg
   - hof/PR1_1837.jpg
   - hof/PR1_1852.jpg
-  - ../../Aufenthaltsraum-3.jpg
+  - old/Aufenthaltsraum-3.jpg
 ---
 
 # Der Ochsenkoflerhof - Urlaub auf dem Bauernhof

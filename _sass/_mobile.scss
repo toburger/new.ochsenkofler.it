@@ -295,13 +295,13 @@ $aside-width: 100%;
 }
 */
 
-ul.gallery {
+div.gallery {
     display: block;
     padding: 0px;
     margin: 0 auto;
     text-align: center;
 
-    li {
+    figure {
         display: inline;
         list-style: none;
         padding: 0px;
