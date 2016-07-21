@@ -1,5 +1,5 @@
 ---
 title: Appartamenti
 permalink: '/it/apartments/'
-tags: [menu]
+tags: [menu, menu_apartments]
 ---

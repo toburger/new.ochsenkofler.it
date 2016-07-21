@@ -11,4 +11,5 @@ Bietet Platz für 2 bis 4 Personen: Doppelbettschlafzimmer, Wohnraum/Küche (kom
 
 Preis: von 125 € bis 150 €
 
+{:.text-center}
 ![]({{ site.baseurl }}/assets/images/grundrisse/erdgeschoss_1und1a.jpg)

@@ -25,7 +25,7 @@ Zahlreiche interessante Museen, wie das berühmte Ötzimuseum in Bozen, Schlöss
 und Burgen bieten eine Alternative bei schlechtem Wetter.  
 Auch der Gardasee und die Dolomiten sind in 1–2 Autostunden erreichbar.  
 
-Links
+#### Links
 
 * [Gemeinde Burgstall](http://www.gemeinde.burgstall.bz.it/)
 * [Burgstall (Wikipedia)](http://de.wikipedia.org/wiki/Burgstall_(S%C3%BCdtirol))
