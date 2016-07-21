@@ -10,28 +10,26 @@
 
 <body>
 
-    <form runat="server">
-        <div id="container">
-            {% include header.html %}
-            <div id="main" role="main">
+    <div id="container">
+        {% include header.html %}
+        <div id="main" role="main">
 
-                {% include menu.html %}
+            {% include menu.html %}
 
-                {% include footer-aside.html %}
+            {% include footer-aside.html %}
 
-                <div id="content" class="clearfix">
-                    <div id="mustercontainer" class="ir">
-                    </div>
-                    <div>
-                        <article>
-                            {{ content }}
-                        </article>
-                    </div>
+            <div id="content" class="clearfix">
+                <div id="mustercontainer" class="ir">
+                </div>
+                <div>
+                    <article>
+                        {{ content }}
+                    </article>
                 </div>
             </div>
         </div>
-        <div id="footer" role="contentinfo"></div>
-    </form>
+    </div>
+    <div id="footer" role="contentinfo"></div>
 
     {% include footer.html %}
 
