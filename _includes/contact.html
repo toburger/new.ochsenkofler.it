@@ -1,0 +1,25 @@
+<form action="https://formspree.io/tobias_burger@hotmail.com"
+      method="POST" id="contact-form">
+  <dl>
+    <dt>
+      <label for="email">Ihre E-Mail Adresse:</label>
+    </dt>
+    <dd>
+      <input type="email" id="email" name="_replyto" required>
+    </dd>
+    <dt>
+      <label for="message">Nachricht:</label>
+    </dt>
+    <dd>
+      <textarea id="message" name="message" rows="10" required>
+      </textarea>
+    </dd>
+    <dt></dt>
+    <dd>
+      <input type="hidden" name="_subject" value="Neue Anfrage von www.ochsenkofler.it" />
+      <input type="hidden" name="_format" value="plain" />
+      <input type="hidden" name="_next" value="{{ '/thanks/' | prepend: page.language | prepend: site.baseurl }}" />
+      <input type="submit" value="Send" class="submit-button">
+    </dd>
+  </dl>
+</form>
