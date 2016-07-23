@@ -1,5 +1,5 @@
 ---
 title: Fotos
-permalink: /de/photos/
+permalink: de/photos/
 #tags: [menu]
 ---

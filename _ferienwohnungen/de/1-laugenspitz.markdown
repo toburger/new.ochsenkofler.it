@@ -1,6 +1,6 @@
 ---
 title: 'Apartement 1: Laugenspitz'
-permalink: '/de/apartments/laugenspitz/'
+permalink: 'de/apartments/laugenspitz/'
 ---
 
 # Apartement 1: Laugenspitz

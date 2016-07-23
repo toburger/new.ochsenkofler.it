@@ -1,6 +1,6 @@
 ---
 title: Privacy
-permalink: /it/privacy/
+permalink: it/privacy/
 tags: []
 ---
 

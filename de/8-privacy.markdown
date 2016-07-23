@@ -1,6 +1,6 @@
 ---
 title: Datenschutz
-permalink: /de/privacy/
+permalink: de/privacy/
 tags: []
 ---
 

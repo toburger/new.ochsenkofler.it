@@ -1,6 +1,6 @@
 ---
 title: 'Apartement 4: Ortlerblick'
-permalink: '/de/apartments/ortlerblick/'
+permalink: 'de/apartments/ortlerblick/'
 ---
 
 # Apartement 4: Ortlerblick

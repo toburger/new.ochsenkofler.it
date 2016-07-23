@@ -1,6 +1,6 @@
 ---
 title: Preise
-permalink: /de/prices/
+permalink: de/prices/
 tags: [menu]
 ---
 

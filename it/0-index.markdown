@@ -1,6 +1,6 @@
 ---
 title: L´Ochsenkoflerhof
-permalink: /it/
+permalink: it/
 tags: []
 ---
 

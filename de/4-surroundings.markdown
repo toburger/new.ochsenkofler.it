@@ -1,6 +1,6 @@
 ---
 title: Umgebung
-permalink: /de/surroundings/
+permalink: de/surroundings/
 tags: [menu]
 ---
 

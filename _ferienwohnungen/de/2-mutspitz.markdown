@@ -1,6 +1,6 @@
 ---
 title: 'Apartement 2: Mutspitz'
-permalink: '/de/apartments/mutspitz/'
+permalink: 'de/apartments/mutspitz/'
 ---
 
 # Apartement 2: Mutspitz

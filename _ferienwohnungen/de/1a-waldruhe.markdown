@@ -1,6 +1,6 @@
 ---
 title: 'Zimmer 1a: Waldruhe'
-permalink: '/de/apartments/waldruhe/'
+permalink: 'de/apartments/waldruhe/'
 ---
 
 # Zimmer 1a: Waldruhe

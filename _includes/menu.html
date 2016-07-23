@@ -1,9 +1,9 @@
 <nav id="navigation" role="navigation" class="aside">
     <h1>
         {% if page.language == "de" %}
-            <a id="homelink" href="{{ "/" | prepend: site.baseurl }}">
+            <a id="homelink" href="{{ site.baseurl }}">
         {% else %}
-            <a id="homelink" href="{{ "/" | prepend: page.language | prepend: "/" | prepend: site.baseurl }}">
+            <a id="homelink" href="{{ page.language | prepend: '/' | prepend: site.baseurl }}">
         {% endif %}
                 Ochsenkofler
             </a>

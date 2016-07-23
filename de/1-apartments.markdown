@@ -1,6 +1,6 @@
 ---
 title: Ferienwohnungen
-permalink: '/de/apartments/'
+permalink: 'de/apartments/'
 tags: [menu, menu_apartments]
 images:
   - w4a/PR1_1761.jpg

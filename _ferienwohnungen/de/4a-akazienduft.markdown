@@ -1,6 +1,6 @@
 ---
 title: "Zimmer 4a: Akazienduft"
-permalink: /de/apartments/akazienduft/
+permalink: de/apartments/akazienduft/
 ---
 
 # Zimmer 4a: Akazienduft

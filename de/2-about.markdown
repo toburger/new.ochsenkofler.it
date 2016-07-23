@@ -1,6 +1,6 @@
 ---
 title: Über uns
-permalink: /de/about/
+permalink: de/about/
 tags: [menu]
 ---
 

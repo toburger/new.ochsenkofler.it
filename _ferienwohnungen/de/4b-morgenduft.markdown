@@ -1,6 +1,6 @@
 ---
 title: 'Zimmer 4b: Morgenduft'
-permalink: '/de/apartments/morgenduft/'
+permalink: 'de/apartments/morgenduft/'
 ---
 
 # Zimmer 4b: Morgenduft

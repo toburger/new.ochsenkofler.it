@@ -1,6 +1,6 @@
 ---
 title: Lage und Anfahrt
-permalink: /de/map/
+permalink: de/map/
 tags: [menu]
 ---
 

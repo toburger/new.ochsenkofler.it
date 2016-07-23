@@ -1,6 +1,6 @@
 ---
 title: 'Apartement 3: Etschtal'
-permalink: '/de/apartments/etschtal/'
+permalink: 'de/apartments/etschtal/'
 ---
 
 # Apartement 3: Etschtal
