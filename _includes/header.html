@@ -1,7 +1,7 @@
 <header>
     <div id="headercontent">
-        <div class="first"><div class="text">{{ site.header[0] }}</div></div>
-        <div class="second"><div class="text">{{ site.header[1] }}</div></div>
+        <div class="first"><div class="text">{{ page.heading.left }}</div></div>
+        <div class="second"><div class="text">{{ page.heading.right }}</div></div>
         <nav id="languagenav" class="text">
             {% if page.permalink == nil %}
                 Deutsch
@@ -14,7 +14,11 @@
                         {% if language.key == page.language %}
                             {{language.value}}
                         {% else %}
+                            {% if page.language == 'it' && page.permalink == '/it/' %}
+                            <a href="{{ site.baseurl }}" hreflang="{{ language.key }}">
+                            {% else %}
                             <a href="{{ page.permalink | replace: page.language,language.key | prepend: site.baseurl }}" hreflang="{{ language.key }}">
+                            {% endif %}
                                 {{ language.value }}
                             </a>
                         {% endif %}
@@ -23,7 +27,7 @@
         </nav>
     </div>
     <div id="banner" role="banner">
-        {% if page.language == "de" %}
+        {% if page.language == 'de' %}
             <a href="{{ site.baseurl }}">
         {% else %}
             <a href="{{ page.language | prepend: "/" | prepend: site.baseurl }}">
