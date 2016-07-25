@@ -1,25 +1,50 @@
+<style>
+dl {
+  width: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0
+}
+dt {
+  float: left;
+  width: 30%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 0;
+  margin: 0
+}
+dd {
+  float: left;
+  width: 70%;
+  /* adjust the width; make sure the total of both is 100% */
+  padding: 0 0 4px 0;
+  margin: 0
+}
+#contact-form .submit-button {
+  margin: 0;
+}
+</style>
 <form action="https://formspree.io/tobias_burger@hotmail.com"
       method="POST" id="contact-form">
   <dl>
     <dt>
-      <label for="email">Ihre E-Mail Adresse:</label>
+      <label for="email">{{ page.contact.email }}</label>
     </dt>
     <dd>
       <input type="email" id="email" name="_replyto" required>
     </dd>
     <dt>
-      <label for="message">Nachricht:</label>
+      <label for="message">{{ page.contact.message }}</label>
     </dt>
     <dd>
       <textarea id="message" name="message" rows="10" required>
       </textarea>
     </dd>
-    <dt></dt>
+    <dt>&nbsp;</dt>
     <dd>
       <input type="hidden" name="_subject" value="Neue Anfrage von www.ochsenkofler.it" />
       <input type="hidden" name="_format" value="plain" />
       <input type="hidden" name="_next" value="{{ '/thanks/' | prepend: page.language | prepend: site.baseurl }}" />
-      <input type="submit" value="Send" class="submit-button">
+      <input type="submit" value="{{ page.contact.send }}" class="submit-button">
     </dd>
   </dl>
 </form>
