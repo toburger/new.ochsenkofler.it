@@ -1,6 +1,6 @@
 ---
 title: Grazie
-permalink: it/thanks
+permalink: it/thanks/
 ---
 
 Grazie per la Sua richiesta!

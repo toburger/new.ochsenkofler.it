@@ -1,6 +1,6 @@
 ---
 title: Danke für Ihre Anfrage
-permalink: de/thanks
+permalink: de/thanks/
 ---
 
 Vielen Dank für Ihre Anfrage!
