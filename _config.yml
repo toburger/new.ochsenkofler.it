@@ -1,9 +1,9 @@
-# Site settings
+﻿# Site settings
 title: Ochsenkofler - Der Ochsenkoflerhof
 email: info@ochsenkofler.it
 description: "Der Ochsenkoflerhof liegt auf der Sonnenseite des Etschtals. Erleben Sie Ihren Urlaub auf unserem sehr schön gelegenen Obstbauernhof!"
 keywords: "ochsenkofler,ochsenkoflerhof,urlaub auf dem bauernhof,burgstall,südtirol,alto adige,postal,burger,appartamenti,ferienwohnungen,apartement,zimmer,camere,vöranerweg 4,via verano 4,39014"
-baseurl: "/jekyll/" # the subpath of your site, e.g. /blog/
+baseurl: "/ochsnekofler.it/" # the subpath of your site, e.g. /blog/
 url: "http://toburger.github.io/" # the base hostname & protocol for your site
 twitter_username: toburger
 github_username:  toburger
