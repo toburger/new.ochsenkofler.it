@@ -16,4 +16,4 @@ Il bagno é attrezzato con vasca, doccia, bidè e WC.
 Prezzo da 80 € bis 100 €
 
 {:.text-center}
-![]({{ site.baseurl }}/assets/images/grundrisse/erdgeschoss_2.jpg)
+![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_2.jpg)

@@ -13,4 +13,4 @@ Camera da letto molto bella per 2 persone con doccia/WC.
 Prezzo: da 45 € a 60 €
 
 {:.text-center}
-![]({{ site.baseurl }}/assets/images/grundrisse/obergeschoss_4a.jpg)
+![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4a.jpg)

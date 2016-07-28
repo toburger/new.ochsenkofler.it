@@ -13,4 +13,4 @@ Offre lo spazio per 2-4 persone: camera doppia, cucina abitabile (completamente 
 Prezzo: da 125 € a 150 €
 
 {:.text-center}
-![]({{ site.baseurl }}/assets/images/grundrisse/erdgeschoss_1und1a.jpg)
+![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1und1a.jpg)

@@ -32,3 +32,13 @@ Auch der Gardasee und die Dolomiten sind in 1–2 Autostunden erreichbar.
 * [Wanderwege in Südtirol](http://www.burggrafenamt.com/de/berge-wandern/)
 * [Schloss Trauttmansdorff](http://www.trauttmansdorff.it/)
 * [Archäologiemuseum](http://www.archaeologiemuseum.it/)
+
+#### Entfernungen
+
+* das nächste Geschäft: *600 m*
+* Apotheke: *800 m*
+* Bäcker: *850 m*
+* Bank: *700 m*
+* Lido Lana: *1 km*
+* Naturbad Gargazon: *3 km*
+* Supermarkt: *2.5 km*

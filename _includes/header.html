@@ -30,7 +30,7 @@
         {% if page.language == 'de' %}
             <a href="{{ site.baseurl }}">
         {% else %}
-            <a href="{{ page.language | prepend: "/" | prepend: site.baseurl }}">
+            <a href="{{ page.language | prepend: site.baseurl }}">
         {% endif %}
             <div class="first ir ph"></div>
             <div class="second ir ph"></div>
