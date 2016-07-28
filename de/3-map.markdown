@@ -16,7 +16,7 @@ Zugbahnhof (Station Lana/Burgstall): 1 km entfernt
 ---------------------------
 
 {:.text-center}
-![]({{ site.baseurl }}/assets/images/Mappe.gif)
+![]({{ 'assets/images/Mappe.gif' | prepend: site.baseurl }})
 
 ---------------------------
 

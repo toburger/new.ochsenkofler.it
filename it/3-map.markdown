@@ -14,7 +14,7 @@ La via Verano si trova dall´ altra parte della strada, proprio di fronte e term
 ---------------------------
 
 {:.text-center}
-![]({{ site.baseurl }}/assets/images/Mappe.gif)
+![]({{ 'assets/images/Mappe.gif' | prepend: site.baseurl }})
 
 ---------------------------
 
