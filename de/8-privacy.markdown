@@ -21,8 +21,8 @@ Im Sinne des Art. 13 des Dlvo Nr. 196/2003 teilen wir Ihnen mit:
 3. Die Aushändigung Ihrer Daten ist freiwillig/verpflichtend (wenn verpflichtend Grund angeben).
 Eine eventuelle Weigerung der Aushändigung Ihrer Daten hat keine Folgen/ hat Folgen zur Erfüllung oder teilweisen Erfüllung des Vertragens / zur Weiterführung der Geschäftsbeziehung.
 4. Ihre Daten werden nicht an Dritte weitergegeben, oder verbreitet.
-5. Der Träger der Datenverarbeitung ist: Martin Ganthaler
-6. Der Verantwortliche der Datenverarbeitung ist: Martin Ganthaler.
+5. Der Träger der Datenverarbeitung ist: Bernhard Burger
+6. Der Verantwortliche der Datenverarbeitung ist: Bernhard Burger.
 7. Sie können jederzeit gegenüber den Träger der Datenverarbeitung Ihre Rechte im Sinne des Art. 7 des Dlvo 196/2003 geltend machen, der an dieser Stelle vollinhaltlich wiedergegeben wird:
 
 **Legislativdekret Nr. 196/2003, Art. 7 - Recht auf Zugang zu den personenbezogenen Daten und andere Rechte**

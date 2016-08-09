@@ -19,7 +19,7 @@ Schlafmöglichkeit für 2 Personen.
 * Bad: Dusche, WC, Haarföhn und Waschmaschine
 * Schlafzimmer: Doppelbett, Massivholzmöbel, Holzboden geölt
 
-~~Bietet Platz für 2 bis 4 Personen: Doppelbettschlafzimmer, Wohnraum/Küche (komplett ausgestattet) mit Sitzecke, Doppelcouch, Schrank, Garderobe, Bad/Dusche/WC.~~
+Bietet Platz für 2 bis 4 Personen: Doppelbettschlafzimmer, Wohnraum/Küche (komplett ausgestattet) mit Sitzecke, Doppelcouch, Schrank, Garderobe, Bad/Dusche/WC.
 
 Preis: von 125 € bis 150 €
 

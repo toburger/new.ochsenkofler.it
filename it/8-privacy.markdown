@@ -20,8 +20,8 @@ Ai sensi dell'articolo 13 del D.lgs. n.196/2003, pertanto, Le forniamo le seguen
 2. Il trattamento sarà effettuato con le seguenti modalità: registrazione a mano e per computer
 3. Il conferimento dei dati è facoltativo/obbligatorio (se obbligatorio, specificare il motivo dell'obbligo) e l'eventuale rifiuto di fornire tali dati non ha alcuna conseguenza / potrebbe comportare la mancata o parziale esecuzione del contratto / la mancata prosecuzione del rapporto.
 4. I dati non saranno comunicati ad altri soggetti, né saranno oggetto di diffusione
-5. Il titolare del trattamento è: Martin Ganthaler 
-6. Il responsabile del trattamento è: Martin Ganthaler
+5. Il titolare del trattamento è: Bernhard Burger 
+6. Il responsabile del trattamento è: Bernhard Burger
 7. In ogni momento potrà esercitare i Suoi diritti nei confronti del titolare del trattamento, ai sensi dell'art.7 del D.lgs.196/2003, che per Sua comodità riproduciamo integralmente:
 
 **Decreto Legislativo n.196/2003, Art. 7 - Diritto di accesso ai dati personali ed altri diritti**

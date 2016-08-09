@@ -14,7 +14,7 @@ Geschirr für 8 Personen.
 Bad: Dusche, WC, Bidet, Föhn  
 Schlafzimmer: Doppelbett, Massivholzmöbel, Holzboden geölt
 
-~~Geräumige Wohnung für 2 bis 4 Personen, Doppelbettschlafzimmer, Bad/Dusche/WC/Bidet, Wohnraum mit Couch und große Sitzecke, Küchenzeile komplett ausgestattet, Garderobe u. Schrank.~~
+Geräumige Wohnung für 2 bis 4 Personen, Doppelbettschlafzimmer, Bad/Dusche/WC/Bidet, Wohnraum mit Couch und große Sitzecke, Küchenzeile komplett ausgestattet, Garderobe u. Schrank.
 
 Preis: von 80 € bis 100 €
 
