@@ -7,9 +7,10 @@ permalink: de/apartments/akazienduft/
 
 18m² mit Balkon 10m²
 
-Sehr schönes Schlafzimmer für 2 Personen mit Doppelbett, Scharnk, Tisch, TV, Vollholzmöbel, Holböden geölt.  
+Sehr schönes Schlafzimmer für 2 Personen.
 
-Wohnung 4 Ortlerblick mit Zimmer 4b Morgenduft und 4a Akazienduft ergeben eine große Wohneinheit.
+* Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Tisch/Stuhl, TV-Gerät, gratis WLAN, Vollholzmöbel, Holböden geölt.  
+* Bad: Dusche, WC, Föhn
 
 Preis: von 45 € bis 60 €
 

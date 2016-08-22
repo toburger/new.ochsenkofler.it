@@ -39,6 +39,8 @@ Für Kinder bis zur Vollendung des 8. Lebensjahres werden 5,00 Euro anstatt der 
 
 #### Gemeindesteuer Ortstaxe:
 
+> **Achtung:** Für 2017 wird die Ortstaxe auf 1,00 Euro erhöht.
+
 Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 0,70 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
 Die Einnahmen aus der Ortstaxe werden für den Ausbau und die Erhaltung von Infrastrukturen und Dienstleistungen, sowie für die Organisation von kulturellen und sportlichen Veranstaltungen eingesetzt.
 In den Preisen inbegriffen sind die Bettwäsche, Handtücher, Geschirrtücher und die Endreinigung.

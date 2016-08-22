@@ -7,11 +7,10 @@ permalink: 'de/apartments/morgenduft/'
 
 24m² mit Balkon 3,5m²
 
-Geräumiges Schlafzimmer für 2 bis 3 Personen mit
-Doppelbett und Couch (Schlafmöglichkeit für 3 Personen), Massivholzmöbel und Holboden geölt.  
-Bad: Dusche, WC, Bidet, Föhn
+Geräumiges Schlafzimmer für 2 bis 3 Personen.
 
-Wohnung 4 Ortlerblick mit dem Zimmer 4b Morgenduft ergeben eine Wohnung.
+* Schlafzimmer: Doppelbett, Couch, Garderobe, Kleiderschrank, Tisch/Stuhl, gratis WLAN, Massivholzmöbel und Holzboden geölt.  
+* Bad: Dusche, WC, Bidet, Föhn
 
 Preis: von 45 € bis 60 €
 

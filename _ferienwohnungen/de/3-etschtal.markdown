@@ -7,12 +7,11 @@ permalink: 'de/apartments/etschtal/'
 
 49m² mit Balkon 10m² und Dachterrasse 8m²
 
-Diese sehr schöne geräumige Giebelwohnung befindet sich im 1.Stock und bietet Platz für 2 bis 4 Personen. Sie ist unterteilt in ein Doppelbettsschlafzimmer, eine Küchenzeile (komplett eingerichtet, Essecke, Wohnraum mit Doppelcouch, Schrank, Garderobe und Wäscheschrank – Bad/Dusche, WC.
+Diese sehr schöne geräumige Giebelwohnung, mit unterteiltem Küchen- und Wohnbereich, befindet sich im 1.Stock und bietet Platz für 2 bis 4 Personen.
 
-Küchenzeile mit Wohnraum, Kühlschrank mit Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster,
-Geschirr für 8 Personen.  
-Bad: Dusche, WC, Haarföhn  
-Schlafzimmer: Doppelbett, Massivholzmöbel, Holzboden geölt
+* Wohnraum/Küche: Küchenzeile und Essecke für 6 Personen, Kühlschrank mit Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster, Geschirr für 8 Personen, TV-Gerät, gratis WLAN, Fließenboden.
+* Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Massivholzmöbel, Holzboden geölt
+* Bad: Dusche, WC, Haarföhn, Fließenboden
 
 Preis: von 90 € bis 110 €
 

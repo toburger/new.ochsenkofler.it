@@ -6,12 +6,16 @@ tags: [menu]
 
 # Lage und Anfahrt
 
-Sie verlassen die Brennerautobahn an der Ausfahrt Bozen-Süd und fahren direkt auf die Schnellstraße MeBo nach Meran.
-Bei der Ausfahrt Lana/Burgstall verlassen Sie die Schnellstraße in Richtung Burgstall/Postal. Weiterfahrt bis zur Kreuzung, dort biegen Sie rechts ab, Richtung Bozen. Entlang der Hauptstraße weiterfahren (600 m) bis Sie zu ihrer Rechten die Pizzeria „Pirri“ erblicken.
-Unsere Auffahrt bzw. der Vöranerweg befindet sich auf deren gegenüberliegender Straßenseite. Der Vöranerweg (Fahrweg) endet an unserer Hofstelle.
+1. Sie verlassen die Brennerautobahn an der Ausfahrt Bozen-Süd und fahren direkt auf die Schnellstraße MeBo nach Meran.
+2. Bei der Ausfahrt Lana/Burgstall verlassen Sie die Schnellstraße in Richtung Burgstall/Postal.
+3. Weiterfahrt bis zur Kreuzung, dort biegen Sie rechts ab, Richtung Bozen.
+4. Entlang der Hauptstraße weiterfahren (600 m) bis Sie zu ihrer Rechten die Pizzeria „Pirri“ erblicken.
+5. Unsere Auffahrt bzw. der Vöranerweg befindet sich auf deren gegenüberliegender Straßenseite.  
+Der Vöranerweg (Fahrweg) endet an unserer Hofstelle.
 
-Bushaltestelle (Meran/Bozen): 200 m ab Hof
-Zugbahnhof (Station Lana/Burgstall): 1 km entfernt
+#### Öffentliche Verkehrsmittel
+* Bushaltestelle (Meran/Bozen/Lana): 200 m ab Hof
+* Zugbahnhof (Station Lana/Burgstall): 1 km entfernt
 
 ---------------------------
 

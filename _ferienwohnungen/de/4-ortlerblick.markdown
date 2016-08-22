@@ -7,11 +7,13 @@ permalink: 'de/apartments/ortlerblick/'
 
 31m² mit Balkon 3,5m²
 
-Angenehme Giebelwohnung für 2 Personen. Küchenzeile komplett ausgestattet, Essecke, Doppelschlafcouch, Kleiderschrank und Garderobe.  
-Bad: Badewanne, Dusche, WC, Föhn, Bidet
+Angenehme Giebelwohnung für 2 Personen.
 
-Auch bei diesem Apartment, kann man eventuell das Zimmer 4b Morgenduft dazumieten, somit bietet sie Platz für 2 bis 5 Personen.
-Für weitere Personen (bis 7 Personen) können Sie bei Verfügbarkeit, auch Zimmer 4a Akazienduft dazumieten.
+* Wohnraum/Küche: Küchenzeile komplett ausgestattet, Essecke, Garderobe, Kleiderschrank, Doppelschlafcouch, Kleiderschrank und Garderobe, TV-Gerät, gratis WLAN.
+* Bad: Badewanne, Dusche, WC, Föhn, Bidet
+
+> Dieses Apartement ist in Verbindung mit Zimmer 4b Morgenduft mietbar oder als große Wohnung zusätzlich mit Zimmer 4a Akazienduft.
+> Somit bietet es Platz für 2 bis 7 Personen.
 
 Preis: von 125 € bis 150 €
 

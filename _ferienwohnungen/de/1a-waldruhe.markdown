@@ -7,17 +7,10 @@ permalink: 'de/apartments/waldruhe/'
 
 Größe 30m² – Terrasse 20m²
 
-Großes Schlafzimmer mit Doppelbett, 1 Couch, Schlafgelegenheit für 3 Personen, Tisch, Stühle.
+Dieser ruhige Schlafraum mit großer Terrasse (im Parterre) bietet Platz für 2 bis 3 Personen.
 
-* Massivholzmöbel, geölt
-* Boden: Fliesen
-* Bad: Dusche, WC, Föhn
-
-Wohnung 1 Laugenspitz mit dem Zimmer 1a Waldruhe zusammen sind eine große Wohnung mit eigenem Zugang.
-
-Dieser ruhige Schlafraum mit großer Terrasse (im Parterre) bietet Platz für 2 bis 3 Personen. Es steht Ihnen ein Doppelbett und eine Couch, ein großer Kleiderschrank, ein Wäscheschrank, Tisch/Stühle, Garderobe/Spiegel, Bad/Dusche/WC zur Verfügung.
-
-Apartment 1 Laugenspitz und Zimmer 1a Waldruhe können auch als ganze Wohnungseinheit gemietet werden. Schlafmöglichkeiten für 7 Personen.
+* Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Couch, Tisch/Stühle, TV-Gerät, gratis WLAN, Fließenboden, Massivholzmöbel geölt
+* Bad: Dusche, WC, Föhn, Fließenboden
 
 Preis: von 45 € bis 65 €
 

@@ -5,16 +5,13 @@ permalink: 'de/apartments/mutspitz/'
 
 # Apartement 2: Mutspitz
 
-im Erdgeschoss unseres Gasthauses.
-
 Größe 47,5m² + Terrasse 20m² (im Parterre)
 
-Küchenzeile mit Wohnraum, Kühlschrank mit Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster,
-Geschirr für 8 Personen.  
-Bad: Dusche, WC, Bidet, Föhn  
-Schlafzimmer: Doppelbett, Massivholzmöbel, Holzboden geölt
+Geräumige Wohnung im Erdgeschoss unseres Gästehauses für 2 bis 4 Personen.
 
-Geräumige Wohnung für 2 bis 4 Personen, Doppelbettschlafzimmer, Bad/Dusche/WC/Bidet, Wohnraum mit Couch und große Sitzecke, Küchenzeile komplett ausgestattet, Garderobe u. Schrank.
+* Wohnraum/Küche: Küchenzeile mit Wohnraum, Essecke mit Tisch für 6 Personen, Couch mit Schlafmöglichkeit für 2 Personen, Kühlschrank mit Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster, Geschirr für 8 Personen, TV-Gerät, gratis WLAN, Fließenboden.
+* Bad: Dusche, WC, Bidet, Föhn, Fließenboden  
+* Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Massivholzmöbel, Holzboden geölt
 
 Preis: von 80 € bis 100 €
 

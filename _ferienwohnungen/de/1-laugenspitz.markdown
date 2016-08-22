@@ -7,19 +7,15 @@ permalink: 'de/apartments/laugenspitz/'
 
 Größe 40m² – Balkon 14m²
 
-Wohnung 1 Laugenspitz mit großem Balkon im Erdgeschoss unseres Gasthauses, geräumiger Wohnküche, Küchenzeile mit Glaskeramikkochfeld,
-Kühlschrank mit Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster,
-Geschirr für 12 Personen.  
-Sitzecke mit Tisch für 6 Personen im Wohnraum, Couch, TV-Gerät (24 Zoll Flachbildschirm),
-Schlafmöglichkeit für 2 Personen.
+Bietet Platz für 2 bis 4 Personen: Doppelbettschlafzimmer mit Wohnküche.
 
-* Böden: Fließen
-* Möbel: Vollholzmöbel, geölt
-* Küche
-* Bad: Dusche, WC, Haarföhn und Waschmaschine
-* Schlafzimmer: Doppelbett, Massivholzmöbel, Holzboden geölt
+Apartement mit großem Balkon im Erdgeschoss unseres Gästehauses, geräumiger Wohnküche. 
 
-Bietet Platz für 2 bis 4 Personen: Doppelbettschlafzimmer, Wohnraum/Küche (komplett ausgestattet) mit Sitzecke, Doppelcouch, Schrank, Garderobe, Bad/Dusche/WC.
+* Wohnraum/Küche: Fließenboden, Küchenzeile mit Glaskeramikkochfeld, Kühlschrank mit Gefrierfach, Geschirrspüler, Kaffeemaschine, Wasserkocher, Toaster, Geschirr für 12 Personen, Garderobe, Kleiderschrank, TV-Gerät, gratis WLAN.
+* Bad: Fließenboden, Dusche, WC, Haarföhn und Waschmaschine
+* Schlafzimmer: Doppelbett, Garderobe, Massivholzmöbel, Holzboden geölt
+
+> Wohnung 1 Laugenspitz mit dem Zimmer 1a Waldruhe ergeben eine große Wohnung mit eigenem Zugang. Schlafmöglichkeiten für bis zu 7 Personen.
 
 Preis: von 125 € bis 150 €
 
