@@ -17,13 +17,8 @@ images:
   - old/Aufenthaltsraum-3.jpg
 ---
 
-# Ochsenkoflerhof
+# Maso Ochsenkofler – vacanze in agriturismo
 
-L´Ochsenkoflerhof giace sul versante solare della Val d´Adige.  
-Vivete la vostra vacanza nell´Ochsenkoflerhof situato in questa bella posizione!
-Si trova su una piccola altura del versante al sole.
-L´Ochsenkoflerhof é un podere ereditario, uno dei masi più vecchi di Postal.
-Dalla casa degli ospiti nuovamente edificata (prima fienile) con quattro appartamenti,
-godete di una splendida vista sulla Val d´Adige e il Burgraviato con le sue magnifiche montagne.
+Il maso Ochsenkofler si trova sul lato soleggiato della Valle dell’Adige. Sperimentate le vacanze presso il nostro bellissimo agriturismo. Su una piccola altura, in un pendio soleggiato, è ubicato il nostro maso. Il maso Ochsenkofler è un maso avito ed è uno dei masi più antichi di Postal. Dal recupero dell´ex pagliaio è stata ricavata la foresteria dove i 4 appartamenti ottenuti godono di una ampia vista sulla Valle dell´Adige e sui bellissimi monti circostanti.
 
 {% include images.html %}

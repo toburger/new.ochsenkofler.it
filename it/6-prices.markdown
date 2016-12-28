@@ -33,22 +33,28 @@ tags: [menu]
 | Media stagione | 135,00 €      | 145,00 €  | 155,00 €  |
 | Bassa stagione | 120,00 €      | 130,00 €  | 140,00 €  |
 
-Prezzi da partire a 7 giorni di soggiorno.
+Prezzi per pernottamento minimo di sette giorni.
 
-Per bambini fino anni 8 il supplemento al giorno sono Euro 5,00.
+Per bambini fino a otto anni sono calcolati 5 Euro di supplemento al giorno per posto, invece di 10 Euro.
 
-#### Tassa di soggiorno:
+#### Tassa di soggiorno
 
-Da partire dal 1 gennaio.2014 verrá introdotta in Alto Adige, l’imposta di soggiorno, giornaliera al costo di 0,70 Euro per tutti gli ospiti oltre i 14 anni.
-Le entrate generate dall’imposta di soggiorno verranno impiegate sia per la costruzione ed il mantenimento di infrastrutture e servizi, sia per l’organizzazione di manifestazioni sportive e culturali.
-Nel prezzo compreso sono: la biancheria, gli asciugamani, la pulizia finale.
+> **Attenzione**: La tassa di soggiorno sarà aumentata nel 2017 ad 1,00 Euro.
 
-Sono ammessi cani (previo accordo) 50,00 Euro la pulizia finale verrà messo in conto.
+Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 0,70 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
 
-Il giorno dell’ arrivo l’appartamento e´disponibile dalle ore 16.00 solo domenica dalle ore 18.00.
+I Cani sono accettati previo accordo, con supplemento di 50,00 euro per la pulizia finale.
 
-Il giorno della partenza siete pregati di liberare l’appartamento entro le ore 10.00.
+Conteggiamo la pulizia finale ad 50,00 euro in caso di soggiorno inferiore ad una settimana.
 
-In caso di un soggiorno inferiore di una settimana calcoliamo un supplemento 50,00. Euro per la pulizia finale.
+Pulizia intermedia – prezzo a richiesta.
 
-Per prenotazioni definitive vi preghiamo di versarci una caparra confirmatoria.
+L'appartamento è disponibile il giorno di arrivo dopo le ore 16 (domenica dopo le 18).
+
+Il giorno di partenza l’appartamento deve essere liberato entro le ore 10.
+
+Per prenotazioni definitive chiediamo una caparra.
+
+#### Assicurazione di viaggio europea
+
+Fidatevi di noi per la vostra vacanza. Basta calcolare facilmente il premio prenotando con  l'assicurazione di viaggio europea.

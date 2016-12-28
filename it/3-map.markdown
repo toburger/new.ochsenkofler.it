@@ -4,12 +4,19 @@ permalink: it/map/
 tags: [menu]
 ---
 
-# Posizione e come ci si arriva
+# Posizione e arrivo / Come arrivare
 
-Lasciate l´autostrada del Brennero all´uscita Bolzano Sud e prendete direttamente la superstrada MEBO direzione Merano.
-All´uscita Lana/Postal lasciate la superstrada in direzione Postal. Continuate fino all´incrocio dove girate a destra, direzione Bolzano.
-Continuate sulla strada principale per 600m finché vedete a destra la Pizzeria "Pirri".  
-La via Verano si trova dall´ altra parte della strada, proprio di fronte e termina alla nostra casa.
+1. Percorrendo l’autostrada del Brennero, all’uscita Bolzano Sud, seguite le indicazioni in direzione di Merano percorrendo la superstrada “MeBo” .
+2. All’uscita Lana/Postal uscite della superstrada in direzione Burgstall/Postal.
+3. Percorrete la strada fino all’incrocio, lì girate a destra, in direzione Bolzano.
+4. Continuare il viaggio lungo la strada principale (600 m) fino a quando vedrete sulla Vostra destra la pizzeria “Pirri“.
+5. La nostra rampa di accesso (Via Verano) si trova sull’altro lato della strada. La Via Verano (strada) finisce nel nostro cortile.
+
+
+Mezzi pubblici
+
+* Fermata dell’autobus (Merano/Bolzano/Lana): distanza 200 m del maso
+* Stazione del treno (stazione Lana/Postal): distanza 1 km
 
 ---------------------------
 

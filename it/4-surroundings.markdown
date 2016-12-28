@@ -6,10 +6,28 @@ tags: [menu]
 
 # Dintorni
 
-La posizione tranquilla al margine del villaggio (il centro dista 400m) é un punto di partenza ideale per una molteplicità di attività del tempo libero. 
-Proprio a fianco dell´Ochsenkoflerhof c´é la via Graf Volkmar, una passeggiata amata da giovani e vecchi, con percorso attrezzato. Il sentiero della camminata per Verano conduce all´altopiano del "Tschögglberg". Vi trovate una meravigliosa zona per escursioni, raggiungibile anche in funivia (dista ca. 10min a piedi da noi). 
-Altre attività del tempo libero: jogging, walking, camminare, giocare a tennis, a golf, cavalcare, volare sul parapendio, escursioni in montagna, sciare, andare sullo snowboard.
+Il tranquillo sobborgo (400 m del centro) è un punto di partenza ideale per varie attività per il tempo libero. Il maso Ochsenkofler si trova nelle immediate vicinanze del sentiero “Graf-Volkmar”, un popolare passaggio per giovani e anziani, vicino è presente anche un percorso fitness.  Il sentiero Verano porta su sull’altopiano di Manzoccolo. Qui trovate una zona di escursioni meravigliosa, accessibile anche in funivia (ca. 10 minuti a piedi dal nostro maso).
 
-La famosa città di cura Merano con le sue belle passeggiate, le terme recentemente riaperte, il giardino botanico "Schloss Trauttmannsdorff" (eletto recentemente come il più bel giardino d´Italia) dista pochi minuti in macchina. 
-L´alternativa quando piove é offerta da numerosi interessanti musei come il famoso museo di "Ötzi" a Bolzano, da castelli e fortezze.
-Anche il lago di Garda e le Dolomiti sono raggiungibili in 1-2 ore in macchina.
+Nel prato vicino alla piscina, nel frutteto o sulle terrazze potrete rilassarvi e riposarvi.
+
+Ulteriori attività per il tempo libero: jogging, escursionismo, tennis, golf, cavalcata, parapendio, escursioni in montagna, sci e snowboard.
+
+La famosa città termale di Merano con le belle passeggiate, le nuove terme, i giardini botanici “Castel Trauttmansdorf” (il giardino più bello d’Italia) dista pochi minuti di macchina. Vari interessanti musei, come il museo di Ötzi a Bolzano, castelli e rocche sono visitabili in caso di maltempo. Anche il lago di Garda e le Dolomiti sono accessibili in una o due ore di macchina.
+
+Links
+
+* [Comune Postal](http://www.gemeinde.burgstall.bz.it/)
+* [Postal (Wikipedia)](https://it.wikipedia.org/wiki/Postal)
+* [Sentieri in Alto Adige](http://www.meranerland.org/it/sport-e-tempo-libero/montagne-ed-escursioni/)
+* [Castel Trauttmansdorff](http://www.trauttmansdorff.it/)
+* [Museo d’archeologia](http://www.archaeologiemuseum.it/)
+
+Distanze
+
+* Negozio più vicino: 600 m
+* Farmacia: 800 m
+* Fornaio: 850 m
+* Banca: 700 m
+* Lido di Lana: 1 km
+* Piscina naturale Gargazzone: 3 km
+* Supermercato: 2,5 km
