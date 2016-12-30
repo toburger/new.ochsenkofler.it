@@ -8,7 +8,7 @@ tags: [menu]
 
 #### Saisonen:
 
-{: .table .table4c .seasontable }
+{: .table .table5c .seasontable }
 |                | von - bis       | von - bis       | von - bis       | von - bis       |
 | -------------- | :-------------: | :-------------: | :-------------: | :-------------: |
 | Hochsaison     | 01.01. - 06.01. | 03.06. - 16.06. | 01.07. - 15.09. | 16.12. - 07.01. |
