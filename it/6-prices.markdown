@@ -37,13 +37,11 @@ Prezzi per pernottamento minimo di sette giorni.
 
 Per bambini fino a otto anni sono calcolati 5 Euro di supplemento al giorno per posto, invece di 10 Euro.
 
+I Cani sono accettati negli appartamenti a pianoterra previo accordo, con supplemento di 50,00 euro per la pulizia finale.
+
 #### Tassa di soggiorno
 
-> **Attenzione**: La tassa di soggiorno sarà aumentata nel 2017 ad 1,00 Euro.
-
-Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 0,70 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
-
-I Cani sono accettati previo accordo, con supplemento di 50,00 euro per la pulizia finale.
+Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 1,00 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
 
 Conteggiamo la pulizia finale ad 50,00 euro in caso di soggiorno inferiore ad una settimana.
 

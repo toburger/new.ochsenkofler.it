@@ -37,15 +37,14 @@ Preise ab 7 Tage Aufenthalt.
 
 Für Kinder bis zur Vollendung des 8. Lebensjahres werden 5,00 Euro anstatt der 10,00 Euro Zuschlag pro Tag berechnet.
 
-#### Gemeindesteuer Ortstaxe:
-
-> **Achtung:** Für 2017 wird die Ortstaxe auf 1,00 Euro erhöht.
-
-Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 0,70 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
-Die Einnahmen aus der Ortstaxe werden für den Ausbau und die Erhaltung von Infrastrukturen und Dienstleistungen, sowie für die Organisation von kulturellen und sportlichen Veranstaltungen eingesetzt.
 In den Preisen inbegriffen sind die Bettwäsche, Handtücher, Geschirrtücher und die Endreinigung.
 
-Hunde sind nach Absprache erlaubt, hierfür wird die Endreinigung mit 50,00 Euro berechnet.
+#### Gemeindesteuer Ortstaxe:
+
+Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 1,00 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
+Die Einnahmen aus der Ortstaxe werden für den Ausbau und die Erhaltung von Infrastrukturen und Dienstleistungen, sowie für die Organisation von kulturellen und sportlichen Veranstaltungen eingesetzt.
+
+Hunde sind nach Absprache in den Ferienwohnungen im Erdgeschoss erlaubt, hierfür wird die Endreinigung mit 50,00 Euro berechnet.
 
 Bei einem Aufenthalt unter einer Woche berechnen wir die Endreinigung mit 50,00 Euro.
 
