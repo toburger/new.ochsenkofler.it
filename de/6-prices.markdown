@@ -4,23 +4,23 @@ permalink: de/prices/
 tags: [menu]
 ---
 
-# Preise 2017
+# Preise 2018
 
 #### Saisonen:
 
 {: .table .table5c .seasontable }
 |                | von - bis       | von - bis       | von - bis       | von - bis       |
 | -------------- | :-------------: | :-------------: | :-------------: | :-------------: |
-| Hochsaison     | 01.01. - 06.01. | 03.06. - 16.06. | 01.07. - 15.09. | 16.12. - 07.01. |
-| Zwischensaison | 08.04. - 02.06. | 17.06. - 30.06. | 16.09. - 13.10. | 02.12. - 15.12. |
-| Nebensaison    | 07.01. - 07.04. | 14.10. - 01.12. |                 |                 |
+| Hochsaison     | 01.01. - 06.01. | 19.05. - 01.06. | 30.06. - 14.09. | 22.12. - 31.12. |
+| Zwischensaison | 24.03. - 18.05. | 02.06. - 29.06. | 15.09. - 12.10. |                 |
+| Nebensaison    | 07.01. - 23.03. | 13.10. - 21.12. |                 |                 |
 
 #### Belegung von min. 2 bis max. 4 Personen:
 
 {: .table .table4c .seasontable }
 |                | 2 Personen        | 3 Personen        | 4 Personen        |
 | -------------- | ----------------- | ----------------- | ----------------- |
-| Hochsaison     | 110,00 / 100,00 € | 120,00 / 110,00 € | 130,00 / 120,00 € |
+| Hochsaison     | 115,00 / 100,00 € | 125,00 / 110,00 € | 135,00 / 120,00 € |
 | Zwischensaison | 100,00 / 90,00 €  | 110,00 / 100,00 € | 120,00 / 110,00 € |
 | Nebensaison    | 80,00 / 70,00 €   | 90,00 / 80,00 €   | 100,00 / 90,00 €  |
 
@@ -29,9 +29,9 @@ tags: [menu]
 {: .table .table4c .seasontable }
 |                | 2 - 4 Personen | 5 Personen | 6 Personen |
 | -------------- | -------------- | ---------- | ---------- |
-| Hochsaison     | 145,00 €       | 155,00 €   | 165,00 €   |
+| Hochsaison     | 150,00 €       | 160,00 €   | 170,00 €   |
 | Zwischensaison | 135,00 €       | 145,00 €   | 155,00 €   |
-| Nebensaison    | 120,00 €       | 130,00 €   | 140,00 €   |
+| Nebensaison    | 125,00 €       | 135,00 €   | 145,00 €   |
 
 Preise ab 7 Tage Aufenthalt.
 
@@ -41,7 +41,7 @@ In den Preisen inbegriffen sind die Bettwäsche, Handtücher, Geschirrtücher un
 
 #### Gemeindesteuer Ortstaxe:
 
-Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 1,00 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
+Für alle Gäste ab 14 Jahre wird eine Ortstaxe von 1,15 Euro pro Person und Tag eingehoben. Diese Abgabe ist nicht im Preis enthalten und wird getrennt berechnet.
 Die Einnahmen aus der Ortstaxe werden für den Ausbau und die Erhaltung von Infrastrukturen und Dienstleistungen, sowie für die Organisation von kulturellen und sportlichen Veranstaltungen eingesetzt.
 
 Hunde sind nach Absprache in den Ferienwohnungen im Erdgeschoss erlaubt, hierfür wird die Endreinigung mit 50,00 Euro berechnet.

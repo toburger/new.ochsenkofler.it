@@ -4,23 +4,24 @@ permalink: it/prices/
 tags: [menu]
 ---
 
-# Prezzi 2017
+# Prezzi 2018
 
 #### Stagioni:
 
 {: .table .table5c .seasontable }
 |                | dal - al        | dal - al        | dal - al        | dal - al        |
 | -------------- | :-------------: | :-------------: | :-------------: | :-------------: |
-| Alta stagione  | 01.01. - 06.01. | 03.06. - 16.06. | 01.07. - 15.09. | 16.12. - 07.01. |
-| Media stagione | 08.04. - 02.06. | 17.06. - 30.06. | 16.09. - 13.10. | 02.12. - 15.12. |
-| Bassa stagione | 07.01. - 07.04. | 14.10. - 01.12. |                 |                 |
+| Alta stagione  | 01.01. - 06.01. | 19.05. - 01.06. | 30.06. - 14.09. | 22.12. - 31.12. |
+| Media stagione | 24.03. - 18.05. | 02.06. - 29.06. | 15.09. - 12.10. |                 |
+| Bassa stagione | 07.01. - 23.03. | 13.10. - 21.12. |                 |                 |
+
 
 #### Apartamenti da: min. 2 persone - mass. 4 persone:
 
 {: .table .table4c .seasontable }
 |                | 2 persone         | 3 persone         | 4 persone         |
 | -------------- | ----------------- | ----------------- | ----------------- |
-| Alta stagione  | 110,00 / 100,00 € | 120,00 / 110,00 € | 130,00 / 120,00 € |
+| Alta stagione  | 115,00 / 100,00 € | 125,00 / 110,00 € | 135,00 / 120,00 € |
 | Media stagione | 100,00 / 90,00 €  | 110,00 / 100,00 € | 120,00 / 110,00 € |
 | Bassa stagione | 80,00 / 70,00 €   | 95,00 / 80,00 €   | 100,00 / 90,00 €  |
 
@@ -29,9 +30,9 @@ tags: [menu]
 {: .table .table4c .seasontable }
 |                | 2 - 4 persone | 5 persone | 6 persone |
 | -------------- | ------------- | --------- | --------- |
-| Alta stagione  | 145,00 €      | 155,00 €  | 165,00 €  |
+| Alta stagione  | 150,00 €      | 160,00 €  | 170,00 €  |
 | Media stagione | 135,00 €      | 145,00 €  | 155,00 €  |
-| Bassa stagione | 120,00 €      | 130,00 €  | 140,00 €  |
+| Bassa stagione | 125,00 €      | 135,00 €  | 145,00 €  |
 
 Prezzi per pernottamento minimo di sette giorni.
 
@@ -41,7 +42,7 @@ I Cani sono accettati negli appartamenti a pianoterra previo accordo, con supple
 
 #### Tassa di soggiorno
 
-Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 1,00 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
+Tutti gli ospiti da 14 anni in su devono versare la tassa di soggiorno di 1,15 Euro per persona a giorno. La tassa non è compresa nel prezzo offerto ed è calcolata separatamente. L’incasso della tassa di soggiorno è utilizzato per smontaggio e manutenzione dell’infrastruttura e dei servizi, e per l’organizzazione di eventi culturali e sportivi. Incluso nel prezzo offriamo biancheria da letto, asciugamani, canovacci e la pulizia finale.
 
 Conteggiamo la pulizia finale ad 50,00 euro in caso di soggiorno inferiore ad una settimana.
 
