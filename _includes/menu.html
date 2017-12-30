@@ -3,7 +3,7 @@
         {% if page.language == "de" %}
             <a id="homelink" href="{{ site.baseurl }}">
         {% else %}
-            <a id="homelink" href="{{ page.language | prepend: '/' | prepend: site.baseurl }}">
+            <a id="homelink" href="{{ page.language | prepend: site.baseurl }}">
         {% endif %}
                 Ochsenkofler
             </a>
