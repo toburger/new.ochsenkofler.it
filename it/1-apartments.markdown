@@ -44,7 +44,7 @@ Uno sguardo di attenzione va prestato alle particolarità presenti nella nostra 
 
 Se sono sufficienti partecipanti, offriamo visite guidate al maso, una grigliata la sera o anche una piacevole riunione nel salotto o sulla terrazza. 
 
-A richiesta serviamo la colazione in salotto: prezzo per persona 12/14 €, bambini fino a sei anni 6 €.
+A richiesta serviamo la colazione in salotto: prezzo per persona 16 €, bambini fino a sei anni 6 €.
 Il buffet della colazione è disponibile dalle ore 8:00 fino alle 10:00. 
 
 La colazione è a base dei nostri prodotti:
