@@ -62,3 +62,13 @@ collections:
     home_popups:
         width: 200
         height: 200
+
+compress_html:
+  clippings: []
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: true
+  profile: false
+  startings: []
