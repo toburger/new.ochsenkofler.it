@@ -2,7 +2,7 @@
 
 echo Generate site...
 
-call jekyll build
+call wsl jekyll build
 
 echo Deploy to FTP server...
 
