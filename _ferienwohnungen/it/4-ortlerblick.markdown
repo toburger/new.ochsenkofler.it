@@ -12,7 +12,7 @@ Gradevole appartamento del frontone per 2 persone. Cucina componibile completame
 
 Anche qui é possibile affittare in più la camera 4b "Morgenduft" per avere lo spazio per 2-5 persone. Nel caso di più (max. 7) si può aggiungere -se disponibile- anche la camera 4a "Akazienduft".
 
-Prezzo: da 125 € a 150 €
+Prezzo: da 125 € a 170 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4.jpg)

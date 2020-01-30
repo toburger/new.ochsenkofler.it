@@ -17,7 +17,7 @@ Apartement mit großem Balkon im Erdgeschoss unseres Gästehauses, geräumiger W
 
 > Wohnung 1 Laugenspitz mit dem Zimmer 1a Waldruhe ergeben eine große Wohnung mit eigenem Zugang. Schlafmöglichkeiten für bis zu 7 Personen.
 
-Preis: von 125 € bis 150 €
+Preis: von 125 € bis 170 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1und1a.jpg)

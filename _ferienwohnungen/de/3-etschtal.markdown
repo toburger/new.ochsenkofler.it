@@ -13,7 +13,7 @@ Diese sehr schöne geräumige Giebelwohnung, mit unterteiltem Küchen- und Wohnb
 * Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Massivholzmöbel, Holzboden geölt
 * Bad: Dusche, WC, Haarföhn, Fließenboden
 
-Preis: von 90 € bis 110 €
+Preis: von 90 € bis 120 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_3.jpg)

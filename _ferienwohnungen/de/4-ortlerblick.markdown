@@ -15,7 +15,7 @@ Angenehme Giebelwohnung für 2 Personen.
 > Dieses Apartement ist in Verbindung mit Zimmer 4b Morgenduft mietbar oder als große Wohnung zusätzlich mit Zimmer 4a Akazienduft.
 > Somit bietet es Platz für 2 bis 7 Personen.
 
-Preis: von 125 € bis 150 €
+Preis: von 125 € bis 170 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4.jpg)

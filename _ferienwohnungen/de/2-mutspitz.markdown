@@ -13,7 +13,7 @@ Geräumige Wohnung im Erdgeschoss unseres Gästehauses für 2 bis 4 Personen.
 * Bad: Dusche, WC, Bidet, Föhn, Fließenboden  
 * Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Massivholzmöbel, Holzboden geölt
 
-Preis: von 80 € bis 100 €
+Preis: von 80 € bis 110 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_2.jpg)

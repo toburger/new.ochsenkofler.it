@@ -12,7 +12,7 @@ In questa tranquilla camera da letto con grande terrazza al pianterreno c´é lo
 
 L´appartamento 1 "Laugenspitz" e la camera 1a "Waldruhe" possono essere affittati come un unico appartamento. Posti letto per 7 persone.
 
-Prezzo: da 45 € a 65 €
+Prezzo: da 45 € a 92 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1a.jpg)

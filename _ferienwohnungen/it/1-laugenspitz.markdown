@@ -18,7 +18,7 @@ Appartamento con grande terrazza al pianoterra della nostra casa vacanze, spazio
 
 > Appartamento 1 “Laugenspitz” con una camera 1a “Waldruhe” consta di un appartamento grande con accesso indipendente. Ospita fino a 7 persone.
 
-Prezzo: da 125 € fino a 150€
+Prezzo: da 125 € fino a 170€
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1und1a.jpg)

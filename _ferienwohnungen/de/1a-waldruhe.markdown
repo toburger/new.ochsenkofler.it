@@ -12,7 +12,7 @@ Dieser ruhige Schlafraum mit großer Terrasse (im Parterre) bietet Platz für 2 
 * Schlafzimmer: Doppelbett, Kleiderschrank, Garderobe, Couch, Tisch/Stühle, TV-Gerät, gratis WLAN, Fließenboden, Massivholzmöbel geölt
 * Bad: Dusche, WC, Föhn, Fließenboden
 
-Preis: von 45 € bis 65 €
+Preis: von 45 € bis 92 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1a.jpg)

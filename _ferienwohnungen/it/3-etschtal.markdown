@@ -12,7 +12,7 @@ Questo appartamento del frontone bello e spazioso si trova al primo piano e offr
 
 L´appartamento può essere affittato anche insieme con le camere 4a ("Akazienduft") e 4b ("Morgenduft"). Dunque possono abitarci da 6-9 persone.
 
-Prezzo: da 90 € a 110 €
+Prezzo: da 90 € a 120 €
 
 {:.text-center}
 ![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_3.jpg)
