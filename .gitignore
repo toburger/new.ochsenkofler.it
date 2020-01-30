@@ -2,4 +2,6 @@ _site
 .sass-cache
 _glynn.yml
 .jekyll-metadata
+.jekyll-cache
 winscp.rnd
+
