@@ -11,7 +11,7 @@ layout: empty
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.pages %}
+    {% for post in site.pages | where: 'layout', 'default' %}
       <item>
         <title xml:lang="{{ post.language }}">{{ post.title | xml_escape }}</title>
         <description xml:lang="{{ post.language }}">{{ post.content | xml_escape }}</description>
