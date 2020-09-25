@@ -1,7 +1,7 @@
 <nav id="navigation" role="navigation" class="aside">
     <h1>
         {% if page.language == "de" %}
-            <a id="homelink" href="{{ relative_url }}"></a>
+            <a id="homelink" href="{{ page.relative_url }}">
         {% else %}
             <a id="homelink" href="{{ page.language | relative_url }}">
         {% endif %}
