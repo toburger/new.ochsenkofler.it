@@ -1,7 +1,6 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <base href="{{ site.url }}">
     <title>{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
     <meta name="generator" content="Jekyll" />
@@ -9,24 +8,24 @@
     <meta name=viewport content="width=device-width">
     <meta name="application-name" content="Ochsenkoflerhof" />
     <meta name="msapplication-TileColor" content="#812020" />
-    <meta name="msapplication-TileImage" content="{{ "assets/icon.png" | prepend: site.baseurl }}" />
-    <link href="{{ "css/Reset.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
+    <meta name="msapplication-TileImage" content="{{ "assets/icon.png" | relative_url }}" />
+    <link href="{{ "css/Reset.min.css" | relative_url }}" rel="stylesheet" type="text/css" />
     <link href="//fonts.googleapis.com/css?family=UnifrakturCook:700" rel="stylesheet" type="text/css" />
     <link href="//fonts.googleapis.com/css?family=Duru+Sans" rel="stylesheet" type="text/css" />
-    <link href="{{ "css/main.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
-    <link href="{{ "css/Fixes.min.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css" />
-    <link rel="shortcut icon" type="image/x-icon" href="{{ "assets/favicon.ico" | prepend: site.baseurl }}" />
-    <link rel="apple-touch-icon" type="image/x-icon" href="{{ "assets/icon.png" | prepend: site.baseurl }}" />
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="stylesheet" href="{{ "assets/js/photoswipe.css" | prepend: site.baseurl }}" />
-    <link rel="stylesheet" href="{{ "assets/js/default-skin/default-skin.css" | prepend: site.baseurl }}" />
-    <script src="{{ "assets/js/modernizr.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>
+    <link href="{{ "css/main.css" | relative_url }}" rel="stylesheet" type="text/css" />
+    <link href="{{ "css/Fixes.min.css" | relative_url }}" rel="stylesheet" type="text/css" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "assets/favicon.ico" | relative_url }}" />
+    <link rel="apple-touch-icon" type="image/x-icon" href="{{ "assets/icon.png" | relative_url }}" />
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <link rel="stylesheet" href="{{ "assets/js/photoswipe.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "assets/js/default-skin/default-skin.css" | relative_url }}" />
+    <script src="{{ "assets/js/modernizr.min.js" | relative_url }}" type="text/javascript"></script>
     <script type="text/javascript">
         Modernizr.load({
             test: Modernizr.mq('(only all)'),
-            nope: '{{ "assets/js/polyfills/respond.min.js" | prepend: site.baseurl }}'
+            nope: '{{ "assets/js/polyfills/respond.min.js" | relative_url }}'
         });
     </script>
-    <script src="{{ "assets/js/photoswipe.min.js" | prepend: site.baseurl }}"></script>
-    <script src="{{ "assets/js/photoswipe-ui-default.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "assets/js/photoswipe.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/photoswipe-ui-default.min.js" | relative_url }}"></script>
 </head>
