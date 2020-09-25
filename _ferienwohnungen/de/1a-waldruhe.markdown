@@ -15,4 +15,4 @@ Dieser ruhige Schlafraum mit großer Terrasse (im Parterre) bietet Platz für 2 
 Preis: von 45 € bis 92 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1a.jpg)
+![]({{ 'assets/images/grundrisse/erdgeschoss_1a.jpg' | relative_url }})

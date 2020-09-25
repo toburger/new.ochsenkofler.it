@@ -18,4 +18,4 @@ Angenehme Giebelwohnung für 2 Personen.
 Preis: von 125 € bis 170 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4.jpg)
+![]({{ 'assets/images/grundrisse/obergeschoss_4.jpg' | relative_url }})

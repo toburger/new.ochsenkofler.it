@@ -20,7 +20,7 @@ Der Vöranerweg (Fahrweg) endet an unserer Hofstelle.
 ---------------------------
 
 {:.text-center}
-![]({{ 'assets/images/Mappe.gif' | prepend: site.baseurl }})
+![]({{ 'assets/images/Mappe.gif' | relative_url }})
 
 ---------------------------
 

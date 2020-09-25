@@ -15,4 +15,4 @@ L´appartamento 1 "Laugenspitz" e la camera 1a "Waldruhe" possono essere affitta
 Prezzo: da 45 € a 92 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1a.jpg)
+![]({{ 'assets/images/grundrisse/erdgeschoss_1a.jpg' | relative_url }})

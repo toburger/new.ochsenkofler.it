@@ -21,4 +21,4 @@ Appartamento con grande terrazza al pianoterra della nostra casa vacanze, spazio
 Prezzo: da 125 € fino a 170€
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1und1a.jpg)
+![]({{ 'assets/images/grundrisse/erdgeschoss_1und1a.jpg' | relative_url }})

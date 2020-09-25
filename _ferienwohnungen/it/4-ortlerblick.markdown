@@ -15,4 +15,4 @@ Anche qui é possibile affittare in più la camera 4b "Morgenduft" per avere lo 
 Prezzo: da 125 € a 170 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4.jpg)
+![]({{ 'assets/images/grundrisse/obergeschoss_4.jpg' | relative_url }})

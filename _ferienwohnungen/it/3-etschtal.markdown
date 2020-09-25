@@ -15,4 +15,4 @@ L´appartamento può essere affittato anche insieme con le camere 4a ("Akaziendu
 Prezzo: da 90 € a 120 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_3.jpg)
+![]({{ 'assets/images/grundrisse/obergeschoss_3.jpg' | relative_url }})

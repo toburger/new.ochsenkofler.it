@@ -15,4 +15,4 @@ Geräumiges Schlafzimmer für 2 bis 3 Personen.
 Preis: von 45 € bis 60 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4b.jpg)
+![]({{ 'assets/images/grundrisse/obergeschoss_4b.jpg' | relative_url }})

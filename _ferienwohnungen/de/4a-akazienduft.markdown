@@ -15,4 +15,4 @@ Sehr schönes Schlafzimmer für 2 Personen.
 Preis: von 45 € bis 60 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_4a.jpg)
+![]({{ 'assets/images/grundrisse/obergeschoss_4a.jpg' | relative_url }})

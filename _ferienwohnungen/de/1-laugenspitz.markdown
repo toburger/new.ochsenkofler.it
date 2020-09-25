@@ -20,4 +20,4 @@ Apartement mit großem Balkon im Erdgeschoss unseres Gästehauses, geräumiger W
 Preis: von 125 € bis 170 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_1und1a.jpg)
+![]({{ 'assets/images/grundrisse/erdgeschoss_1und1a.jpg' | relative_url }})

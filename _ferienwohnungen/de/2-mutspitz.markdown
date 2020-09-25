@@ -16,4 +16,4 @@ Geräumige Wohnung im Erdgeschoss unseres Gästehauses für 2 bis 4 Personen.
 Preis: von 80 € bis 110 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/erdgeschoss_2.jpg)
+![]({{ 'assets/images/grundrisse/erdgeschoss_2.jpg' | relative_url }})

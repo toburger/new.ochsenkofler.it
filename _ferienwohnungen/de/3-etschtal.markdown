@@ -16,4 +16,4 @@ Diese sehr schöne geräumige Giebelwohnung, mit unterteiltem Küchen- und Wohnb
 Preis: von 90 € bis 120 €
 
 {:.text-center}
-![]({{ site.baseurl }}assets/images/grundrisse/obergeschoss_3.jpg)
+![]({{ 'assets/images/grundrisse/obergeschoss_3.jpg' | relative_url }})
