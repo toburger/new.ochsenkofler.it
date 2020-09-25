@@ -1,10 +1,10 @@
 ---
-layout:
+layout: empty
 ---
 
-# robots.txt for {{ "/" | prepend: site.baseurl | prepend: site.url }}
+# robots.txt for {{ absolute_url }}
 
-Sitemap: {{ "/sitemap.xml" | prepend: site.baseurl | prepend: site.url }}
+Sitemap: {{ "/sitemap.xml" | absolute_url }}
 
 User-agent: *
 Disallow:
