@@ -8,14 +8,14 @@
     <figure itemprop="associatedMedia"
             itemscope itemtype="http://schema.org/ImageObject">
         <a class="gallery-link"
-        href="{{ 'assets/images/orig/' | prepend: site.baseurl | append: image }}"
+        href="{{ 'assets/images/orig/' | append: image | relative_url }}"
         data-size="640x427"
         itemprop="contentUrl">
             <img class="thumbnail"
                 alt=""
                 itemprop="thumbnail"
                 style="max-height: 56px"
-                src="{{ 'assets/images/orig/' | prepend: site.baseurl | append: image }}">
+                src="{{ 'assets/images/orig/' | append: image | relative_url }}">
         </a>
     </figure>
     {% endfor %}

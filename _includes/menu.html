@@ -1,9 +1,9 @@
 <nav id="navigation" role="navigation" class="aside">
     <h1>
         {% if page.language == "de" %}
-            <a id="homelink" href="{{ site.baseurl }}">
+            <a id="homelink" href="{{ relative_url }}"></a>
         {% else %}
-            <a id="homelink" href="{{ page.language | prepend: site.baseurl }}">
+            <a id="homelink" href="{{ page.language | relative_url }}">
         {% endif %}
                 Ochsenkofler
             </a>
@@ -18,7 +18,7 @@
                         {% else %}
                         <li>
                         {% endif %}
-                            <a href="{{ p.permalink | prepend: site.baseurl }}">{{ p.title }}</a>
+                            <a href="{{ p.permalink | relative_url }}">{{ p.title }}</a>
                             {% if p.tags contains 'menu_apartments' and page.permalink contains p.permalink %}
                                 <ul>
                                     {% for doc in site.ferienwohnungen %}
@@ -28,7 +28,7 @@
                                             {% else %}
                                             <li>
                                             {% endif %}
-                                                <a href="{{ doc.permalink | prepend: site.baseurl }}">{{ doc.title }}</a>
+                                                <a href="{{ doc.permalink | relative_url }}">{{ doc.title }}</a>
                                             </li>
                                         {% endif %}
                                     {% endfor %}

@@ -5,9 +5,9 @@
         <nav id="languagenav" class="text">
             {% if page.permalink == nil %}
                 Deutsch
-                <a href="{{ 'it/' | prepend: site.baseurl }}">Italiano</a>
+                <a href="{{ 'it/' | relative_url }}">Italiano</a>
             {% elsif page.permalink == '/it/' %}
-                <a href="{{ site.baseurl }}">Deutsch</a>
+                <a href="{{ relative_url }}">Deutsch</a>
                 Italiano
             {% else %}
                 {% for language in site.languages %}
@@ -15,9 +15,9 @@
                             {{language.value}}
                         {% else %}
                             {% if page.language == 'it' && page.permalink == '/it/' %}
-                            <a href="{{ site.baseurl }}" hreflang="{{ language.key }}">
+                            <a href="{{ relative_url }}" hreflang="{{ language.key }}">
                             {% else %}
-                            <a href="{{ page.permalink | replace: page.language,language.key | prepend: site.baseurl }}" hreflang="{{ language.key }}">
+                            <a href="{{ page.permalink | replace: page.language,language.key | relative_url }}" hreflang="{{ language.key }}">
                             {% endif %}
                                 {{ language.value }}
                             </a>
@@ -28,9 +28,9 @@
     </div>
     <div id="banner" role="banner">
         {% if page.language == 'de' %}
-            <a href="{{ site.baseurl }}">
+            <a href="{{ relative_url }}">
         {% else %}
-            <a href="{{ page.language | prepend: site.baseurl }}">
+            <a href="{{ page.language | relative_url }}">
         {% endif %}
             <div class="first ir ph"></div>
             <div class="second ir ph"></div>
