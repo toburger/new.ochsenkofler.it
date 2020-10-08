@@ -1,10 +1,10 @@
-{% if page.images %}
+{% if page.gallery.images %}
 
 <div class="gallery"
-        style="max-width: {{ page.gallery_width }}px"
+        style="max-width: {{ page.gallery.width | default: '100%' }}"
         data-pswp-uid="1"
         itemscope itemtype="http://schema.org/ImageGallery">
-    {% for image in page.images %}
+    {% for image in page.gallery.images %}
     <figure itemprop="associatedMedia"
             itemscope itemtype="http://schema.org/ImageObject">
         <a class="gallery-link"
@@ -14,7 +14,7 @@
             <img class="thumbnail"
                 alt=""
                 itemprop="thumbnail"
-                style="max-height: 56px"
+                style="max-height: {{ page.gallery.image_height | default: '120px' }}"
                 src="{{ 'assets/images/orig/' | append: image | relative_url }}">
         </a>
     </figure>

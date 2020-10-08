@@ -1,0 +1,15 @@
+{% assign active = "assets/images/Ellipse 358.svg" | relative_url %}
+{% assign inactive = "assets/images/Ellipse 359.svg" | relative_url %}
+<div class="nav--secondary">
+    {% for p in site.html_pages | sort: 'name' %}
+        {% if page.language == p.language and p.tags contains 'menu' %}
+            <a href="{{ p.permalink | relative_url }}">
+                {% if page.permalink == p.permalink %}
+                    <img src="{{ active }}" />
+                {% else %}
+                    <img src="{{ inactive }}" />
+                {% endif %}
+            </a>
+        {% endif %}
+    {% endfor %}
+</div>

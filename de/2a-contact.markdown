@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: Anfrage & Kontakt
 permalink: de/contact/
 tags: [menu]
 ---

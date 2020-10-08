@@ -1,5 +1,34 @@
 <head>
     <meta charset="utf-8" />
+    <title>{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content="Jekyll" />
+    <meta name="keywords" content="{{ site.keywords }}" />
+
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;0,400;1,300;1,400&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
+    {%- comment -%} <link rel="manifest" href="site.webmanifest" /> {%- endcomment -%}
+    <link rel="shortcut icon" type="image/x-icon" href="{{ "assets/logo.png" | relative_url }}" />
+    <link rel="apple-touch-icon" type="image/x-icon" href="{{ "assets/logo.png" | relative_url }}" />
+
+    <link rel="stylesheet" href="{{ "css/normalize.css" | relative_url }}" type="text/css" />
+    <link rel="stylesheet" href="{{ "css/site.css" | relative_url }}" type="text/css" />
+
+    <meta name="theme-color" content="#812020" />
+
+    <!-- PHOTOSWIPE -->
+    <script src="{{ "assets/js/photoswipe.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/photoswipe-ui-default.min.js" | relative_url }}"></script>
+    <link rel="stylesheet" href="{{ "assets/js/photoswipe.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "assets/js/default-skin/default-skin.css" | relative_url }}" />
+    <link rel="stylesheet" href="{{ "css/gallery.css" | relative_url }}" />
+
+    <!-- <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <title>{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
@@ -27,5 +56,5 @@
         });
     </script>
     <script src="{{ "assets/js/photoswipe.min.js" | relative_url }}"></script>
-    <script src="{{ "assets/js/photoswipe-ui-default.min.js" | relative_url }}"></script>
+    <script src="{{ "assets/js/photoswipe-ui-default.min.js" | relative_url }}"></script> -->
 </head>

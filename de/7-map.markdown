@@ -1,7 +1,7 @@
 ---
 title: Lage und Anfahrt
 permalink: de/map/
-tags: [menu]
+#tags: [menu]
 ---
 
 # Lage und Anfahrt

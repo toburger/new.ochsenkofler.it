@@ -1,43 +1,51 @@
-<nav id="navigation" role="navigation" class="aside">
-    <h1>
-        {% if page.language == "de" %}
-            <a id="homelink" href="{{ '/' | relative_url }}">
-        {% else %}
-            <a id="homelink" href="{{ page.language | relative_url }}">
-        {% endif %}
-                Ochsenkofler
-            </a>
-    </h1>
-    <div id="mainnav">
-        <div id="layout-navigation" class="group">
-            <ul>
-                {% for p in site.html_pages %}
-                    {% if page.language == p.language and p.tags contains 'menu' %}
-                        {% if page.permalink == p.permalink %}
-                        <li class="current">
+<nav>
+    <ul>
+         {%- comment -%} <li>
+            {% if page.language == "de" %}
+                <a id="homelink" href="{{ '/' | relative_url }}">
+            {% else %}
+                <a id="homelink" href="{{ page.language | relative_url }}">
+            {% endif %}
+                    Wilkommen
+                </a>
+        </li>  {%- endcomment -%}
+
+        {% for p in site.html_pages | sort: 'name' %}
+            {% if page.language == p.language and p.tags contains 'menu' %}
+                {% assign css_class = '' %}
+                {% if page.permalink == p.permalink %}
+                    {% assign css_class = 'active' %}
+                {% endif %}
+                <li>
+                    <a href="{{ p.permalink | default: '/' | relative_url }}" class="{{ css_class }}">{{ p.title }}</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+
+        <li>
+            {% if page.permalink == '/' %}
+                de |
+                <a href="{{ '/it/' | relative_url }}">it</a>
+            {% elsif page.permalink == '/it/' %}
+                <a href="{{ '/' | relative_url }}">de</a> |
+                it
+            {% else %}
+                {% for language in site.languages %}
+                    {% if language.key != 'de' %} | {% endif %}
+                    {% if language.key == page.language %}
+                        {{language.value}}
+                    {% else %}
+                        {% if page.language == 'it' && page.permalink == '/it/' %}
+                        <a href="{{ '/' | relative_url }}" hreflang="{{ language.key }}">
                         {% else %}
-                        <li>
+                        <a href="{{ page.permalink | replace: page.language,language.key | relative_url }}" hreflang="{{ language.key }}">
                         {% endif %}
-                            <a href="{{ p.permalink | relative_url }}">{{ p.title }}</a>
-                            {% if p.tags contains 'menu_apartments' and page.permalink contains p.permalink %}
-                                <ul>
-                                    {% for doc in site.ferienwohnungen %}
-                                        {% if doc.language == page.language %}
-                                            {% if page.permalink == doc.permalink %}
-                                            <li class="current">
-                                            {% else %}
-                                            <li>
-                                            {% endif %}
-                                                <a href="{{ doc.permalink | relative_url }}">{{ doc.title }}</a>
-                                            </li>
-                                        {% endif %}
-                                    {% endfor %}
-                                </ul>
-                            {% endif %}
-                        </li>
+                            {{ language.value }}
+                        </a>
                     {% endif %}
                 {% endfor %}
-            </ul>
-        </div>
-    </div>
+            {% endif %}
+
+        </li>
+    </ul>
 </nav>

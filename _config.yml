@@ -14,10 +14,10 @@ markdown: kramdown
 languages:
     -
         key: 'de'
-        value: 'Deutsch'
+        value: 'de'
     -
         key: 'it'
-        value: 'Italiano'
+        value: 'it'
 
 defaults:
     -
@@ -31,6 +31,7 @@ defaults:
                 location: Burgstall
                 street: Vöranerweg 4
             gallery_width: 350
+            greeting: Die Familie Burger<br />heißt Sie herzlich Willkommen<br />auf dem Ochsenkoflerhof!
             heading:
                 left: Die Familie Burger
                 right: heißt Sie herzlich Willkommen auf dem Ochsenkoflerhof!
@@ -38,6 +39,10 @@ defaults:
                 email: 'Ihre E-Mail Adresse:'
                 message: 'Nachricht:'
                 send: Anfrage senden
+            hero: |
+                # Der Ochsenkoflerhof - Urlaub auf dem Bauernhof
+
+                Der Ochsenkoflerhof liegt auf der Sonnenseite des Etschtals. Erleben Sie Ihren Urlaub auf unserem sehr schön gelegenen Obstbauernhof! Er befindet sich auf einer kleinen Anhöhe am sonnigen Hang. Der Ochsenkoflerhof ist ein Erbhof und einer der ältesten Bauernhöfe von Burgstall. Vom neu errichteten Gästehaus (ehem. Scheune) mit den 4 Wohnungen, haben Sie einen herrlichen Ausblick auf das schöne Etschtal und das Meranerland mit seiner schönen Bergwelt.
     -
         scope:
             path: "it"
@@ -48,6 +53,7 @@ defaults:
             address:
                 location: Postal
                 street: Via Verano 4
+            greeting: La famiglia Burger<br />le dà il benvenuto<br />nell´Ochsenkoflerhof!
             heading:
                 left: La famiglia Burger
                 right: le dà il benvenuto nell´Ochsenkoflerhof!
@@ -55,6 +61,10 @@ defaults:
                 email: 'Indirizzo E-Mail:'
                 message: 'Messaggio:'
                 send: Invia
+            hero: |
+                # Maso Ochsenkofler – vacanze in agriturismo
+
+                Il maso Ochsenkofler si trova sul lato soleggiato della Valle dell’Adige. Sperimentate le vacanze presso il nostro bellissimo agriturismo. Su una piccola altura, in un pendio soleggiato, è ubicato il nostro maso. Il maso Ochsenkofler è un maso avito ed è uno dei masi più antichi di Postal. Dal recupero dell´ex pagliaio è stata ricavata la foresteria dove i 4 appartamenti ottenuti godono di una ampia vista sulla Valle dell´Adige e sui bellissimi monti circostanti.
 
 collections:
     ferienwohnungen:
@@ -62,13 +72,3 @@ collections:
     home_popups:
         width: 200
         height: 200
-
-compress_html:
-  clippings: []
-  comments: ["<!-- ", " -->"]
-  endings: []
-  ignore:
-    envs: []
-  blanklines: true
-  profile: false
-  startings: []

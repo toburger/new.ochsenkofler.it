@@ -1,41 +1,62 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="{{ page.language }}"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="{{ page.language }}"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9" lang="{{ page.language }}"> <![endif]-->
-<!--[if gt IE 8]><!-->
 <html class="no-js" lang="{{ page.language }}">
-<!--<![endif]-->
 
     {% include head.html %}
 
 <body>
 
-    <div id="container">
-        {% include header.html %}
-        <div id="main" role="main">
+       <div class="main">
+      <div class="head--left">
+        <img src="{{ "assets/images/logo.svg" | relative_url }}" />
+        {{ page.greeting | markdownify }}
+      </div>
 
-            {% include menu.html %}
+      <div class="head--right">
+        <article>
+            {{ page.hero | markdownify }}
+        </article>
 
-            {% include footer-aside.html %}
-
-            <div id="content" class="clearfix">
-                <div id="mustercontainer" class="ir">
-                </div>
-                <div>
-                    <article>
-                        {{ content }}
-                    </article>
-                </div>
-            </div>
+        {% include menu-secondary.html %}
+      </div>
+      <div class="nav">
+        {% include menu.html %}
+        <!-- <nav>
+          <ul>
+            <li><a href="#" class="active">Willkommen</a></li>
+            <li><a href="#">Wohnungen & Preise</a></li>
+            <li><a href="#">Anfrage & Kontakt</a></li>
+            <li><a href="#">Umgebung</a></li>
+            <li><a href="#">Über uns</a></li>
+            <li><a href="#">it</a> | <a href="#">en</a></li>
+          </ul>
+        </nav> -->
+        <div class="info">
+          <hr />
+          <div>
+            Familie Burger<br />
+            Vöranerweg 4, I-39014
+          </div>
+          <img src="{{ "assets/images/blumen.png" | relative_url }}" />
         </div>
+      </div>
+      <div class="content">
+        <article>
+            {{ content }}
+        </article>
+        <nav class="widget">
+          <a href="#" class="widget--item contact">
+            <span>Anfrage & Kontakt</span>
+            <img src="{{ "assets/images/kontakt.svg" | relative_url }}" />
+          </a>
+          <a href="#" class="widget--item contact">
+            <span>Lage & Anfahrt</span>
+            <img src="{{ "assets/images/anfahrt.svg" | relative_url }}" />
+            </a>
+        </nav>
+      </div>
     </div>
-    <div id="footer" role="contentinfo"></div>
 
-    {% include footer.html %}
+    <script src="{{ "assets/js/vendor/modernizr-3.11.2.min.js" | relative_url }}"></script>
 
 </body>
 </html>
