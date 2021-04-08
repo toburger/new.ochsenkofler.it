@@ -40,7 +40,11 @@
         </div>
       </div>
       <div class="content">
-        <article>
+        <article
+          {% if page.full_width %}
+            class="fullwidth"
+          {% endif %}
+        >
             {{ content }}
         </article>
         {% include widget.html %}
