@@ -379,3 +379,13 @@ table {
   height: 100%;
   object-fit: cover;
 }
+
+a[href="#main-menu"] {
+  font-size: 2em;
+}
+
+@media only screen and (min-width: 680px) {
+  a[href="#main-menu"] {
+    display: none;
+  }
+}

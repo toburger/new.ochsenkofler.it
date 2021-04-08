@@ -5,13 +5,22 @@
 
 <body>
 
-       <div class="main">
+      <div class="main">
       <div class="head--left">
         <img src="{{ "assets/images/logo.svg" | relative_url }}" />
         {{ page.greeting | markdownify }}
       </div>
 
-      <div class="head--right">
+      <div class="head--right" style="position: relative;">
+
+        <div style="position: absolute; left: 0; bottom: 0; padding: 0; margin: 0">
+          <a href="#main-menu" class="mburger">
+            <b></b>
+            <b></b>
+            <b></b>
+          </a>
+        </div>
+
         <article>
             {{ page.hero | markdownify }}
         </article>
@@ -20,16 +29,6 @@
       </div>
       <div class="nav">
         {% include menu.html %}
-        <!-- <nav>
-          <ul>
-            <li><a href="#" class="active">Willkommen</a></li>
-            <li><a href="#">Wohnungen & Preise</a></li>
-            <li><a href="#">Anfrage & Kontakt</a></li>
-            <li><a href="#">Umgebung</a></li>
-            <li><a href="#">Über uns</a></li>
-            <li><a href="#">it</a> | <a href="#">en</a></li>
-          </ul>
-        </nav> -->
         <div class="info">
           <hr />
           <div>
@@ -51,7 +50,7 @@
       </div>
     </div>
 
-    <script src="{{ "assets/js/vendor/modernizr-3.11.2.min.js" | relative_url }}"></script>
+    {% include footer.html %}
 
 </body>
 </html>

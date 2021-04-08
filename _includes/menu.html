@@ -1,4 +1,4 @@
-<nav>
+<nav id="main-menu">
     <ul>
         {% for p in site.html_pages | sort: 'name' %}
             {% if page.language == p.language and p.tags contains 'menu' %}
