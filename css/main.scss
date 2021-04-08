@@ -53,6 +53,10 @@ table.seasontable tbody td {
     text-align: center;
 }
 
+table.seasontable tbody td:first-child {
+    width: 30%;
+}
+
 table.pricetable tbody td {
     text-align:  right;
 }
