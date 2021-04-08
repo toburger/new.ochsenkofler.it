@@ -313,6 +313,52 @@ table {
   }
   .content {
     overflow-y: inherit;
+
+    dt, dd {
+      width: unset !important;
+      float: unset !important;
+    }
+  }
+
+  .seasontable {
+    // Source: https://css-tricks.com/responsive-data-tables/
+    /* Force table to not be like tables anymore */
+    table, thead, tbody, th, td, tr { 
+      display: block; 
+      border-collapse: collapse;
+    }
+    
+    /* Hide table headers (but not display: none;, for accessibility) */
+    thead tr { 
+      position: absolute;
+      top: -9999px;
+      left: -9999px;
+    }
+    
+    tr { border: 1px solid #ae2f2a; }
+    
+    td { 
+      /* Behave  like a "row" */
+      border: none;
+      border-bottom: 1px solid #ae2f2a;
+      position: relative;
+      padding-left: 50%; 
+    }
+
+    tr {
+      margin-bottom: 5px;
+    }
+    
+    td:before { 
+      /* Now like a table header */
+      position: absolute;
+      /* Top/left values mimic padding */
+      top: 6px;
+      left: 6px;
+      width: 45%; 
+      padding-right: 10px; 
+      white-space: nowrap;
+    }
   }
 }
 
