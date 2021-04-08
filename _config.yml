@@ -3,7 +3,7 @@ title: Ochsenkofler - Der Ochsenkoflerhof in Burgstall
 email: info@ochsenkofler.it
 description: "Der Ochsenkoflerhof liegt auf der Sonnenseite des Etschtals. Erleben Sie Ihren Urlaub auf unserem sehr schön gelegenen Obstbauernhof!"
 keywords: "ochsenkofler,ochsenkoflerhof,urlaub auf dem bauernhof,burgstall,südtirol,alto adige,postal,burger,appartamenti,ferienwohnungen,apartement,zimmer,camere,vöranerweg 4,via verano 4,39014"
-baseurl: "" # the subpath of your site, e.g. /blog/ should never be /, see https://ben.balter.com/jekyll-style-guide/config/#baseurl
+baseurl: "/new.ochsenkofler.it/" # the subpath of your site, e.g. /blog/ should never be /, see https://ben.balter.com/jekyll-style-guide/config/#baseurl
 url: "" # Leave empty, so the correct URL ist read from the environment
 twitter_username: toburger
 github_username:  toburger
