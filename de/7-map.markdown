@@ -1,7 +1,6 @@
 ---
 title: Lage und Anfahrt
 permalink: de/map/
-#tags: [menu]
 ---
 
 # Lage und Anfahrt
@@ -13,9 +12,9 @@ permalink: de/map/
 5. Unsere Auffahrt bzw. der Vöranerweg befindet sich auf deren gegenüberliegender Straßenseite.  
 Der Vöranerweg (Fahrweg) endet an unserer Hofstelle.
 
-#### Öffentliche Verkehrsmittel
-* Bushaltestelle (Meran/Bozen/Lana): 200 m ab Hof
-* Zugbahnhof (Station Lana/Burgstall): 1 km entfernt
+> ### Öffentliche Verkehrsmittel
+> * Bushaltestelle (Meran/Bozen/Lana): 200 m ab Hof
+> * Zugbahnhof (Station Lana/Burgstall): 1 km entfernt
 
 ---------------------------
 

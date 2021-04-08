@@ -43,16 +43,7 @@
         <article>
             {{ content }}
         </article>
-        <nav class="widget">
-          <a href="#" class="widget--item contact">
-            <span>Anfrage & Kontakt</span>
-            <img src="{{ "assets/images/kontakt.svg" | relative_url }}" />
-          </a>
-          <a href="#" class="widget--item contact">
-            <span>Lage & Anfahrt</span>
-            <img src="{{ "assets/images/anfahrt.svg" | relative_url }}" />
-            </a>
-        </nav>
+        {% include widget.html %}
       </div>
     </div>
 

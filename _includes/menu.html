@@ -1,15 +1,5 @@
 <nav>
     <ul>
-         {%- comment -%} <li>
-            {% if page.language == "de" %}
-                <a id="homelink" href="{{ '/' | relative_url }}">
-            {% else %}
-                <a id="homelink" href="{{ page.language | relative_url }}">
-            {% endif %}
-                    Wilkommen
-                </a>
-        </li>  {%- endcomment -%}
-
         {% for p in site.html_pages | sort: 'name' %}
             {% if page.language == p.language and p.tags contains 'menu' %}
                 {% assign css_class = '' %}
@@ -45,7 +35,6 @@
                     {% endif %}
                 {% endfor %}
             {% endif %}
-
         </li>
     </ul>
 </nav>

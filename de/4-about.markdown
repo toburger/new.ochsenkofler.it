@@ -2,9 +2,9 @@
 title: Über uns
 permalink: de/about/
 tags: [menu]
-hero: |
-    # Über uns
 ---
+
+# Über uns
 
 Der Ochsenkoflerhof ist einer der ältesten Höfe von Burgstall und wird seit
 über 200 Jahren von derselben Familie bewirtschaftet. Deshalb erhielt er 1980
