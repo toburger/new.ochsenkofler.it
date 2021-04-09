@@ -6,10 +6,19 @@
     <meta name="generator" content="Jekyll" />
     <meta name="keywords" content="{{ site.keywords }}" />
 
-    <meta property="og:title" content="" />
-    <meta property="og:type" content="" />
-    <meta property="og:url" content="" />
-    <meta property="og:image" content="" />
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ '/' | absolute_url }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ 'assets/images/orig/' | append: 'roland/main/luftaufnahme.jpg' | append: image | absolute_url }}">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="{{ '/' | absolute_url }}">
+    <meta property="twitter:title" content="{% if page.title %}{{ page.title | prepend: ' - ' | prepend: site.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta property="twitter:description" content="{{ site.description }}"">
+    <meta property="twitter:image" content="{{ 'assets/images/orig/' | append: 'roland/main/luftaufnahme.jpg' | append: image | absolute_url }}">
 
     <link href="https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;0,400;1,300;1,400&family=UnifrakturCook:wght@700&display=swap" rel="stylesheet">
     {%- comment -%} <link rel="manifest" href="site.webmanifest" /> {%- endcomment -%}
