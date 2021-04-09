@@ -1,3 +1,3 @@
 #!/usr/bin/env fish
 
-docker run --rm --volume=(pwd):/srv/jekyll -p 4000:4000 -p 35729:35729 -it jekyll/jekyll jekyll serve --config _config.yml,_config.dev.yml -r -l
+docker run --rm --volume=(pwd):/srv/jekyll -p 4000:4000 -p 35729:35729 -it jekyll/jekyll jekyll serve --config _config.yml,_config.dev.yml -l
