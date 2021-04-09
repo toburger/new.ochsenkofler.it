@@ -45,7 +45,7 @@ input, textarea {
       <input type="hidden" name="_subject" value="Neue Anfrage von www.ochsenkofler.it" />
       <input type="hidden" name="_format" value="plain" />
       <input type="hidden" name="_next" value="{{ '/thanks/' | prepend: page.language | relative_url }}" />
-      <input type="hidden" name="_cc" value="info@ochsenkofler.it" />
+      <input type="hidden" name="_cc" value="{{ site.email }}" />
       <input type="submit" value="{{ page.contact.send }}" class="submit-button">
     </dd>
   </dl>
