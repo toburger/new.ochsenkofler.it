@@ -1,0 +1,7 @@
+# robots.txt for 
+
+Sitemap: https://toburger.github.io/new.ochsenkofler.it/sitemap.xml
+
+User-agent: *
+Disallow:
+Crawl-delay: 1
